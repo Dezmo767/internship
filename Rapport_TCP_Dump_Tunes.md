@@ -29,8 +29,9 @@ Type ```sudo tcpdump -i any -n -c 1000 | ~/internship/Midi_Tunes/TCP_Dump_Intern
 
 reminder:
 
-sudo | launch command as root
+Command | Effect
 --- | ---
+sudo | launch command as root
 tcpdump | launch tcpdump application
 -i any | tcpdump option to use all network interfaces
 -n | tcpdump option to
