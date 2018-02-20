@@ -23,7 +23,6 @@ A Python script that was createdd by **Nickpegg** and hosted ```https://github.c
 
 ## Running the script
 + Go to repo
-+
 
 Type ```sudo tcpdump -i any -n -c 1000 | ~/internship/Midi_Tunes/TCP_Dump_Intern.py -f test_just-wow```
 
