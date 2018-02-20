@@ -15,11 +15,11 @@ A Python script that was createdd by NAME and hosted GITHUB WEB ADDRESS. It was 
 
 ## Installation Ubuntu/Linux Version 14.04 LTS
 
-+ install Python with the command '''sudo apt-get install python3'''
-+ install Python pip with the command '''sudo apt-get install python3-pip'''
-+ install python midi with the command '''sudo pip install git+https://github.com/vishnubob/python-midi@feature/python3'''
++ install Python with the command ```sudo apt-get install python3```
++ install Python pip with the command ```sudo apt-get install python3-pip```
++ install python midi with the command ```sudo pip install git+https://github.com/vishnubob/python-midi@feature/python3```
 
-+ Clone my github directory with the command '''git clone git@github.com:Dezmo767/internship.git''' then you can start.
++ Clone my github directory with the command ```git clone git@github.com:Dezmo767/internship.git``` then you can start.
 
 ## Running the script
 + Go to repo
