@@ -41,26 +41,26 @@ pipe (\|) | link commands
  + Volicity is the Volume of the instruments between 0 and 127
  + Ticks are the speed of Playing an instrument
  + **List of the Midi Instruments**
-PC# | Instrument
+PC | Instrument
 --- | ---
 0. | Acoustic Grand Piano
-1 | Bright Acoustic Piano
-2 | Electric Grand Piano
-3 | Honky-tonk Piano
-5 | Electric Piano 1
-6 | Electric Piano 2
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-13 |
-14 |
-15 |
-16 |
-17 |
-18 |
+1. | Bright Acoustic Piano
+2. | Electric Grand Piano
+3. | Honky-tonk Piano
+5. | Electric Piano 1
+6. | Electric Piano 2
+7. |
+8. |
+9. |
+10. |
+11. |
+12. |
+13. |
+14. |
+15. |
+16. |
+17. |
+18. |
 19 |
 20 |
 21|
