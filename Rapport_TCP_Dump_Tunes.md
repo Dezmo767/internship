@@ -131,21 +131,21 @@ PC | Instrument
 |84|Lead 5 (charang)|
 |85|Lead 6 (voice)|
 |86|Lead 7 (fifths)|
-|89|Lead 1 (bass + lead)|
-|90||
-|91||
-|92||
-|93||
-|94||
-|95||
-|96||
-|97||
-|98||
-|99||
-|100||
-|101||
-|102||
-|103||
-|104||
-|105||
-|106||
+|87|Lead 8 (bass + lead)|
+|88|Pad 1 (new age)|
+|89|Pad 2 (warm)|
+|90|Pad 3 (polysynth)|
+|91|Pad 4 (choir)|
+|92|Pad 5 (bowed)|
+|93|Pad 6 (metallic)|
+|94|Pad 7 (halo)|
+|95|Pad 8 (sweep)|
+|96|FX 1 (rain)|
+|97|FX 2 (soundtrack)|
+|98|FX 3 (crystal)|
+|99|FX 4 (atmosphere)|
+|100|FX 5 (brigthness)|
+|101|FX 6 (golblins)|
+|102|FX 7 (echoes)|
+|103|FX 8 (sci-fi)|
+|104|Sitar|
