@@ -43,26 +43,26 @@ pipe (\|) | link commands
  + **List of the Midi Instruments**
 PC# | Instrument
 --- | ---
-0|
-1|
-2|
-3|
-5|
-6|
-7|
-8|
-9|
-10|
-11|
-12|
-13|
-14|
-15|
-16|
-17|
-18|
-19|
-20|
+0 | Acoustic Grand Piano
+1 | Bright Acoustic Piano
+2 | Electric Grand Piano
+3 | Honky-tonk Piano
+5 | Electric Piano 1
+6 | Electric Piano 2
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+13 |
+14 |
+15 |
+16 |
+17 |
+18 |
+19 |
+20 |
 21|
 22|
 23|
