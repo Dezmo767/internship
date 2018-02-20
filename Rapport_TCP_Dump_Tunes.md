@@ -45,69 +45,70 @@ pipe (\|) | link commands
 PC | Instrument
 --- | ---
 | 0| Acoustic Grand Piano|
-|1. | Bright Acoustic Piano|
-|2. | Electric Grand Piano|
-|3. | Honky-tonk Piano|
-|5. | Electric Piano 1|
-|6. | Electric Piano 2|
-|7. ||
-|8. ||
-|9. ||
-|10. ||
-|11. ||
-|12. ||
-|13. ||
-|14. ||
-|15. ||
-|16. ||
-|17. ||
-|18. ||
-|19 ||
-|20 ||
-21||
-22||
-23||
-24||
-25||
-26||
-27||
-28||
-29||
-30||
-31||
-32||
-33||
-34||
-35||
-36||
-37||
-38||
-39||
-40||
-41||
-42||
-43||
-44||
-45||
-46||
-47||
-48||
-49||
-50||
-51||
-52||
-53||
-54||
-55||
-56||
-57||
-58||
-59||
-60||
-61||
-62||
-63||
-64||
-65||
-66||
-67||
+|1 | Bright Acoustic Piano|
+|2 | Electric Grand Piano|
+|3 | Honky-tonk Piano|
+|4 |Electric Piano 1|
+|5 |	Electric Piano 2|
+|6 |Harpsichord|
+|7 |Clavi|
+|8 |Celesta|
+|9 |Glockenspiel|
+|10 |Music Box|
+|11 |Vibraphone|
+|12 |Marimba|
+|13 |Xylophone|
+|14 |Tubular Bells|
+|15 |Dulcimer|
+|16 |Drawbar Organ|
+|17 |Percussive Organ|
+|18 |Rock Organ|
+|19 |Church Organ|
+|20 |Reed Organ|
+|21|Accordion|
+|22|Harmonica|
+|23|Tango Accordion|
+|24|Acoustic Guitar (nylon)|
+|25|Acoustic Guitar (steel)|
+|26|Electric Guitar (jazz)|
+|27|Electric Guitar (clean)|
+|28|Electric Guitar (muted)|
+|29|Overdriven Guitar|
+|30|Distortion Guitar|
+|31|Guitar harmonics|
+|32|Acoustic Bass|
+|33|Electric Bass (finger)|
+|34|Electric Bass (pick)|
+|35|Fretless Bass|
+|36|Slap Bass 1|
+|37|Slap Bass 2|
+|38|Synth Bass 1|
+|39|Synth Bass 2|
+|40|Violin|
+|41|Viola|
+|42|Cello|
+|43|Contrabass|
+|44|Tremolo Strings|
+|45|Pizzicato Strings|
+|46|Orchestral Harp|
+|47|Timpani|
+|48|String Ensemble 1|
+|49|String Ensemble 2|
+|50|SynthString 1|
+|51|SynthStrings 2|
+|52|Choir Aahs|
+|53|Voice Oohs|
+|54|Synth Voice|
+|55|Orchestra Hit|
+|56|Trumpet|
+|57|Trumpet|
+|58|Tuba|
+|59|Muted Trumpet|
+|60|French Horn|
+|61|Brass Section|
+|62|SynthBrass 1|
+|63|SynthBrass 2|
+|64|Soprano Sax|
+|65|Alto Sax|
+|66|Tenor Sax|
+|67|Baritone Sax|
