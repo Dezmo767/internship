@@ -34,6 +34,8 @@ def main():
     pattern.append(track)
     track2 = midi.Track()
     pattern.append(track2)
+    track3 = midi.Track()
+    pattern.append(track3)
 
     last_time = datetime.now()
     line = sys.stdin.readline()
@@ -87,13 +89,17 @@ def main():
             track2.append(midi.NoteOffEvent(tick=80, pitch=note))
 	    track2.append(midi.ProgramChangeEvent(data=[0]))
 	    
-
+	    track3.append(midi.NoteOnEvent(tick=0, velocity=127, pitch=note))
+            track3.append(midi.NoteOffEvent(tick=90, pitch=note))
+	    track3.append(midi.ProgramChangeEvent(data=[65]))
+	  
 
         line = sys.stdin.readline()
 
     # Dump MIDI track to stdout
     track.append(midi.EndOfTrackEvent(tick=1))
     track2.append(midi.EndOfTrackEvent(tick=1))
+    track3.append(midi.EndOfTrackEvent(tick=1))
     midi.write_midifile(output_file, pattern)
     
 
