@@ -28,8 +28,9 @@ A Python script that was createdd by **Nickpegg** and hosted ```https://github.c
 Type ```sudo tcpdump -i any -n -c 1000 | ~/internship/Midi_Tunes/TCP_Dump_Intern.py -f test_just-wow```
 
 reminder:
-|--|--|
-| sudo | launch command as root |
-| tcpdump | launch tcpdump application |
-| -i any | tcpdump option to use all network interfaces |
-| -n | tcpdump option to |
+
+sudo | launch command as root
+--- | ---
+tcpdump | launch tcpdump application
+-i any | tcpdump option to use all network interfaces
+-n | tcpdump option to
