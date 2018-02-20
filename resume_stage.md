@@ -10,3 +10,7 @@ Um 14 hatte ich Mittagspause.
 Dann bekam ich ein Neues Projekt was schon angefangen würde von einem anderen Praktikanten es ging darum aus Datenverkehr eine Melodie zu erstellen um es den Kindern näher zu bringen, jetzt geht es um eine Kleine Theater aufführung über informatik deswegen muss das Script ein bisschen umgeändert werden das Script ist in der Programmier Sprache Python geschrieben was eine herausforderung darstellen wird da ich die Python sprache nur bedingt kenne.
 Als ich dann anfing hatte ich ein paar probleme mit Python z.b: Hat das programmm Setuptools von Python gefehlt zudem war das Zusatz packet Python-Midi nicht installiert und es gab immer wieder mal einen Error Broken Pipe was mich von 14:30 - 16:01 beschäftigt hat um 16:03 hatte ich dann Feierabend.
 
+## 20 feb 2018
+
+### actions
+
