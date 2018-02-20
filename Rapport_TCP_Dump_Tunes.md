@@ -112,3 +112,40 @@ PC | Instrument
 |65|Alto Sax|
 |66|Tenor Sax|
 |67|Baritone Sax|
+|68|Oboe|
+|69|English Horn|
+|70|Bassoon|
+|71|Clarinet|
+|72|Piccolo|
+|73|Flute|
+|74|Recorder|
+|75|Pan Flute|
+|76|Blow Bottle|
+|77|Shakuhachi|
+|78|Wistle|
+|79|Ocarina|
+|80|Lead 1 (square)|
+|81|Lead 2 (sawtooth)|
+|82|Lead 3 (calliope)|
+|83|Lead 4 (chiff)|
+|84|Lead 5 (charang)|
+|85|Lead 6 (voice)|
+|86|Lead 7 (fifths)|
+|89|Lead 1 (bass + lead)|
+|90||
+|91||
+|92||
+|93||
+|94||
+|95||
+|96||
+|97||
+|98||
+|99||
+|100||
+|101||
+|102||
+|103||
+|104||
+|105||
+|106||
