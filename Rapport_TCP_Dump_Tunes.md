@@ -34,4 +34,6 @@ Command | Effect
 sudo | launch command as root
 tcpdump | launch tcpdump application
 -i any | tcpdump option to use all network interfaces
--n | tcpdump option to
+-n | tcpdump option to not convert addresses (i.e., host addresses, port numbers, etc.) to names
+-c 1000 | tcpdump option to exit after receiving 1000 packets
+pipe (*|*) | link commands
