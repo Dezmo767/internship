@@ -10,9 +10,9 @@ from datetime import datetime
 import midi
 
 
-MIN_SPACING = 20
-MIN_LENGTH = 25
-MAX_OCTAVE = 100
+MIN_SPACING = 30
+MIN_LENGTH = 20
+MAX_OCTAVE = 85
 
 def main():
     line_re = r"(?P<timestamp>\d{2}:\d{2}:\d{2}.\d{6}) IP (?P<src>\d+\.\d+\.\d+\.\d+)\.(?P<sport>\d+) > (?P<dst>\d+\.\d+\.\d+\.\d+)\.(?P<dport>\d+): (?:Flags \[(?P<flags>[SFPRUWE\.]+)\])?.+?length (?P<length>\d+)"
