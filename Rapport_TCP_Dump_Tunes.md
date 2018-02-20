@@ -149,3 +149,33 @@ PC | Instrument
 |102|FX 7 (echoes)|
 |103|FX 8 (sci-fi)|
 |104|Sitar|
+|105|Banjo|
+|106|Shamisen|
+|107|Koto|
+|108|Kalimba|
+|109|Bag Pipe|
+|110|Fiddle|
+|111|Shanai|
+|112|Tinkle Bell|
+|113|Agogo|
+|114|Steel Drums|
+|115|Woodblock|
+|116|Taiko Drum|
+|117|Melodic Tom|
+|118|Synth Drum|
+|119|Reverse Cymbal|
+|120| Guitar Fret Noise|
+|121|Breath Noise|
+|122|Seashore|
+|123|Bird Tweet|
+|124|Telephone Ring|
+|125|Helicopter|
+|126|Applause|
+|127|Gunshot|
+
+
+
+
+
+
+
