@@ -14,3 +14,11 @@ Als ich dann anfing hatte ich ein paar probleme mit Python z.b: Hat das programm
 
 ### actions
 
+Heute war mein zweiter Arbeitstag um 7:45 fing ich an und informierte mich bis 9:10 über GitHub und Markdown zudem schrieb ich meinen ersten Tages Bericht vom 19 febuar 2018.
+Von 9:11 - 12:20 arbeitete ich an dem Projekt TCP Dump Tunes weiter was in Python geschrieben ist und den Datenverkehr in Music umwandelt zudem Schrieb ich einen Bericht der unter dem Link ```https://github.com/Dezmo767/internship/blob/master/Rapport_TCP_Dump_Tunes.md``` zufinden ist.
+Von 12:20 - 13:20 hatte ich Mittagspause direkt danach Arbeitete ich weiter an dem Projekt TCP Dump Tunes und um 17:00 war mein Arbeitstag beendet.
+
+## 21 feb 2018
+
+### actions
+
