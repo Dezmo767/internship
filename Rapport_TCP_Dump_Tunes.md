@@ -7,7 +7,7 @@ I have just modifiert the Scrip and add some New Instruments.
 The Script Transform data traffic into "Random" generated Music one example you can find is the link ```https://github.com/Dezmo767/internship/``` with the file name ```test_just-wow``` it is an midi file type.
 
 ### What does the scirpt do?
-The script TCP Dump tunes interprets some IP packets captured using TCPDump Unix Tool and generaes a MIDI audio file out of it. 
+The script TCP Dump tunes interprets some IP packets captured using TCPDump Unix Tool and generate a MIDI audio file out of it. 
 
 ### What is TCPDumpTool
 
