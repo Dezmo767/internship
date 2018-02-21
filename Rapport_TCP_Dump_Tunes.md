@@ -43,7 +43,7 @@ pipe (\|) | link commands
  + **List of the Midi Instruments**
  
 PC | Instrument
---- | ---
+--- | --- |---
 |0 | Acoustic Grand Piano| hi |
 |1 | Bright Acoustic Piano|
 |2 | Electric Grand Piano|
