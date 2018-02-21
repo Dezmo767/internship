@@ -13,7 +13,10 @@ import midi
 MIN_SPACING = 20
 MIN_LENGTH = 25
 MAX_OCTAVE = 100
-midi.type = 0
+
+# midi.type is the synchronisation of the Music, 0 = midi Standart, 1 = synchron, 2 = ansynchron 
+
+midi.type = 1
 
 def main():
     line_re = r"(?P<timestamp>\d{2}:\d{2}:\d{2}.\d{6}) IP (?P<src>\d+\.\d+\.\d+\.\d+)\.(?P<sport>\d+) > (?P<dst>\d+\.\d+\.\d+\.\d+)\.(?P<dport>\d+): (?:Flags \[(?P<flags>[SFPRUWE\.]+)\])?.+?length (?P<length>\d+)"
@@ -87,17 +90,17 @@ def main():
 		note  = MAX_OCTAVE
 
             # Finally, append the note to the track, Velocity is between 0 and 127
-            track.append(midi.NoteOnEvent(tick=100, velocity=127, pitch=20))
-            track.append(midi.NoteOffEvent(tick=370, pitch=20))
-	    track.append(midi.ProgramChangeEvent(data=[114]))
+            track.append(midi.NoteOnEvent(tick=0, velocity=0, pitch=note))
+            track.append(midi.NoteOffEvent(tick=350, pitch=note))
+	    track.append(midi.ProgramChangeEvent(data=[4]))
 
-	    track2.append(midi.NoteOnEvent(tick=0, velocity=127,pitch=23))
-            track2.append(midi.NoteOffEvent(tick=1410, pitch=23))
-	    track2.append(midi.ProgramChangeEvent(data=[114]))
+	    track2.append(midi.NoteOnEvent(tick=0, velocity=90,pitch=50))
+            track2.append(midi.NoteOffEvent(tick=150, pitch=50))
+	    track2.append(midi.ProgramChangeEvent(data=[117]))
 	    
-	     #track3.append(midi.NoteOnEvent(tick=0, velocity=20, pitch=note))
-             #track3.append(midi.NoteOffEvent(tick=50, pitch=note))
-	     #track3.append(midi.ProgramChangeEvent(data=[52]))
+	    track3.append(midi.NoteOnEvent(tick=0, velocity=60, pitch=note))
+            track3.append(midi.NoteOffEvent(tick=500, pitch=note))
+	    track3.append(midi.ProgramChangeEvent(data=[58]))
 
 	     #track4.append(midi.NoteOnEvent(tick=0, velocity=127, pitch=note))
              #track4.append(midi.NoteOffEvent(tick=1000, pitch=note))
@@ -112,7 +115,7 @@ def main():
     # Dump MIDI track to stdout
     track.append(midi.EndOfTrackEvent(tick=1))
     track2.append(midi.EndOfTrackEvent(tick=1))
-    # track3.append(midi.EndOfTrackEvent(tick=1))
+    track3.append(midi.EndOfTrackEvent(tick=1))
     # track4.append(midi.EndOfTrackEvent(tick=1))
     # track5.append(midi.EndOfTrackEvent(tick=1))
     midi.write_midifile(output_file, pattern)
