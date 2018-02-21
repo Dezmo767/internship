@@ -28,14 +28,20 @@ Type ```sudo tcpdump -i any -n -c 1000 | ~/internship/Midi_Tunes/TCP_Dump_Intern
 
 reminder:
 
-Command | Effect
+Command            | Effect
 --- | ---
-sudo | launch command as root
-tcpdump | launch tcpdump application
--i any | tcpdump option to use all network interfaces
--n | tcpdump option to not convert addresses (i.e., host addresses, port numbers, etc.) to names
--c 1000 | tcpdump option to exit after receiving 1000 packets
-pipe (\|) | link commands
+sudo               | launch command as root
+tcpdump            | launch tcpdump application
+-i any             | tcpdump option to use all network interfaces
+-n                 | tcpdump option to not convert addresses (i.e., host addresses, port numbers, etc.) to names
+-c 1000            | tcpdump option to exit after receiving 1000 packets
+pipe (\|)          | link commands
+~                  | is your Home directory
+-f                 | write the file
+test_just-wow      | your File name
+TCP_Dump_Intern.py | the "Music" Script
+
+
 
 ## Edit the Script
  + Volicity is the Volume of the instruments between 0 and 127
