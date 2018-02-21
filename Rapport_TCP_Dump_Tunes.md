@@ -42,6 +42,14 @@ pipe (\|) | link commands
  + Ticks are the speed of Playing an instrument
  + **List of the Midi Instruments**
  
+| PC  |Instruments  |   |   |   |
+|---|---|---|---|---|
+| 0  |Acoustic Grand Piano |   |   |   |
+| 1  |   |   |   |   |
+| 2  |   |   |   |   |
+ 
+ 
+ 
 PC | Instrument
 --- | ---
 |0 | Acoustic Grand Piano|
