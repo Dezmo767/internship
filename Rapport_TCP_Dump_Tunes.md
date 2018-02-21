@@ -42,40 +42,46 @@ pipe (\|) | link commands
  + Ticks are the speed of Playing an instrument
  + **List of the Midi Instruments**
  
-| PC  |Instruments  | PC  | Instruments  |   | |
+| PC  |Instruments            | PC  | Instruments               | PC  | Instruments |
 |---|---|---|---|---|---|
-| 0  |Acoustic Grand Piano |   |   |   | |
-| 1  |   |   |   |   ||
-| 2  |   |   |   |   ||
-| 3  |   |   |   |   ||
-| 4 |   |   |   |   ||
-| 5  |   |   |   |   ||
-| 6  |   |   |   |   ||
-| 7  |   |   |   |   ||
-| 8  |   |   |   |   ||
-| 9  |   |   |   |   ||
-| 10  |   |   |   |   ||
-| 11  |   |   |   |   ||
-| 12  |   |   |   |   ||
-| 13  |   |   |   |   ||
-| 14  |   |   |   |   ||
-| 15  |   |   |   |   ||
-| 16  |   |   |   |   ||
-| 17  |   |   |   |   ||
-| 18  |   |   |   |   ||
-| 19  |   |   |   |   ||
-| 20  |   |   |   |   ||
-
-
+| 0  |Acoustic Grand Piano    | 33  |Electric Bass (finger)     |     |             |
+| 1  |Bright Acoustic Piano   | 34  |Electric Bass (pick)       |||
+| 2  |Electric Grand Piano    | 35  |Fretless Bass              |||
+| 3  |Honky-tonk Piano        | 36  |Slap Bass 1                |||
+| 4  |Electric Piano 1        | 37  |Slap Bass 2                |||
+| 5  |Electric Piano 2        | 38  |Synth Bass 1               |||
+| 6  |Harpsichord             | 39  |Synth Bass 2               |||
+| 7  |Clavi                   | 40  |Violin   |   |49|
+| 8  |Celesta                 | 41  |Viola   |   |50|
+| 9  |Glockenspiel            | 42  |Cello   |   |51|
+| 10  |Music Box              | 43  |Contrabass   |   |52|
+| 11  |Vibraphone             | 44  |   |   |53|
+| 12  |Marimba                | 45  |   |   |54|
+| 13  |Xylophone              | 46  |   |   |55|
+| 14  |Tubular Bells          | 47  |   |   |56|
+| 15  |Dulcimer               | 48  |   |   |57|
+| 16  |Drawbar Organ          | 49  |   |   |58|
+| 17  |Percussiv Organ        | 51  |   |   |59|
+| 18  |Rock Organ             | 52  |   |   ||
+| 19  |Church Organ           | 53  |   |   ||
+| 20  |Reed Organ             | 54  |   |   ||
+| 21  |Accordion              | 55  |   |   ||
+| 22  |Harmonica              | 56  ||||
+| 23  |Tango Accordion        | 57  ||||
+| 24  |Acoustic Guitar (nylon)| 58  ||||
+| 25  |Acoustic Guitar (steel)| 59  ||||
+| 26  |Electric Guitar (jazz) | 60  ||||
+| 27  |Electric Guitar (clean)| 61  ||||
+| 28  |Electric Guitar (muted)| 62  ||||
+| 29  |Overdriven Guitar      | 63  ||||
+| 30  |Disortion Guitar       | 64  ||||
+| 31  |Guitar harmonics       | 65  ||||
+| 32  |Acoustic Bass          | 66  ||||
 
 
 PC | Instrument
 --- | ---
-|0 | Acoustic Grand Piano|
-|1 | Bright Acoustic Piano|
-|2 | Electric Grand Piano|
-|3 | Honky-tonk Piano|
-|4 |Electric Piano 1|
+
 |5 |	Electric Piano 2|
 |6 |Harpsichord|
 |7 |Clavi|
