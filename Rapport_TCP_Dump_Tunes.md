@@ -44,7 +44,7 @@ pipe (\|) | link commands
  
 PC | Instrument
 --- | ---
-|0 | Acoustic Grand Piano|
+|0 | Acoustic Grand Piano| hi |
 |1 | Bright Acoustic Piano|
 |2 | Electric Grand Piano|
 |3 | Honky-tonk Piano|
