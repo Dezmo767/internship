@@ -13,7 +13,7 @@ import midi
 MIN_SPACING = 20
 MIN_LENGTH = 25
 MAX_OCTAVE = 100
-midi.type = 1
+midi.type = 0
 
 def main():
     line_re = r"(?P<timestamp>\d{2}:\d{2}:\d{2}.\d{6}) IP (?P<src>\d+\.\d+\.\d+\.\d+)\.(?P<sport>\d+) > (?P<dst>\d+\.\d+\.\d+\.\d+)\.(?P<dport>\d+): (?:Flags \[(?P<flags>[SFPRUWE\.]+)\])?.+?length (?P<length>\d+)"
@@ -71,11 +71,11 @@ def main():
             flags = data.get('flags', '')
             if flags:
                 if 'S' in flags:
-                    note = midi.D_2
+                    note = midi.D_3
                 elif '.' in flags:
-                    note = midi.C_1
+                    note = midi.C_3
                 elif 'F' in flags:
-                    note = midi.G_2
+                    note = midi.G_3
                 elif 'R' in flags:
                     note = midi.F_3
 
@@ -87,13 +87,13 @@ def main():
 		note  = MAX_OCTAVE
 
             # Finally, append the note to the track, Velocity is between 0 and 127
-            track.append(midi.NoteOnEvent(tick=0, velocity=127, pitch=note))
-            track.append(midi.NoteOffEvent(tick=450, pitch=note))
-	    track.append(midi.ProgramChangeEvent(data=[35]))
+            track.append(midi.NoteOnEvent(tick=100, velocity=127, pitch=20))
+            track.append(midi.NoteOffEvent(tick=370, pitch=20))
+	    track.append(midi.ProgramChangeEvent(data=[114]))
 
-	    track2.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
-            track2.append(midi.NoteOffEvent(tick=350, pitch=note))
-	    track2.append(midi.ProgramChangeEvent(data=[35]))
+	    track2.append(midi.NoteOnEvent(tick=0, velocity=127,pitch=23))
+            track2.append(midi.NoteOffEvent(tick=1410, pitch=23))
+	    track2.append(midi.ProgramChangeEvent(data=[114]))
 	    
 	     #track3.append(midi.NoteOnEvent(tick=0, velocity=20, pitch=note))
              #track3.append(midi.NoteOffEvent(tick=50, pitch=note))
