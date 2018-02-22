@@ -88,5 +88,5 @@ TCP_Dump_Intern.py | the "Music" Script
 > <p>It's on line 93 - 95</p>
 ```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))```<br>
 ```track.append(midi.NoteOffEvent(tick=250, pitch=note))```<br>
-```track.append(midi.ProgramChangeEvent(**data=[0]**))``` 
-<p>Change Data to one of the Numbers in the Table of Instruments</p>
+```track.append(midi.ProgramChangeEvent(data=[0]))``` 
+<p>Change Data=[**0**] to one of the Numbers in the Table of Instruments</p>
