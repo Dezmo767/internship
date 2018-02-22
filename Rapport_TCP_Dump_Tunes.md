@@ -83,3 +83,15 @@ TCP_Dump_Intern.py | the "Music" Script
 | 30 |Disortion Guitar        | 63  |Synth Brass 2              | 96  |FX 1 (rain)           |||
 | 31 |Guitar harmonics        | 64  |Soprano Sax                | 97  |FX 2 (soundtrack)     |||
 | 32 |Acoustic Bass           | 65  |Alto Sax                   | 98  |FX 3 (crystal)        |||
+
+### Change an Instrument, ticks, velocity or pitch
+> <p>It's on line 93 - 95</p>
+```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))```<br>
+```track.append(midi.NoteOffEvent(tick=250, pitch=note))```<br>
+```track.append(midi.ProgramChangeEvent(data=[0]))```<br>
++ Change _Data=[**0**]_ to one of the Numbers in the Table of Instruments to select a new Instruments.
++ Change the _velocity=**50**_ to another number between 0 and 127 to change the Hit intensity of a Piano par exemple.
++ Change the Tick of _track.append(midi.NoteOnEvent(tick=**400**, velocity=50, pitch=note))_ to change the hit speed (delay for hit another Key).
++ Change the Tick of _track.append(midi.NoteOffEvent(tick=**250**, pitch=note))_ to modifier how long the Key is being pressed.
++ Change the pitch=**note** to an other Value to make lower or brigth Tones, note are a Variable it means it change the pitch alone based on the Flags of the TCP.
+
