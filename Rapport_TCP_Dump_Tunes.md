@@ -83,3 +83,10 @@ TCP_Dump_Intern.py | the "Music" Script
 | 30 |Disortion Guitar        | 63  |Synth Brass 2              | 96  |FX 1 (rain)           |||
 | 31 |Guitar harmonics        | 64  |Soprano Sax                | 97  |FX 2 (soundtrack)     |||
 | 32 |Acoustic Bass           | 65  |Alto Sax                   | 98  |FX 3 (crystal)        |||
+
++ Change an Instrument
+> It's on line 93 - 95
+```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))
+   track.append(midi.NoteOffEvent(tick=250, pitch=note))
+	  track.append(midi.ProgramChangeEvent(**data=[0]**))```
+   Change Data to one of the Numbers in the Table of Instruments
