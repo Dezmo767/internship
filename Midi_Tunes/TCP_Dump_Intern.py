@@ -70,7 +70,7 @@ def main():
                 note_length = MIN_LENGTH
 
             # determine the note to play based on TCP flags
-            note = midi.C_3
+            note = midi.E_3 # Modifire midi.C_3 to midi.E_3
             flags = data.get('flags', '')
             if flags:
                 if 'S' in flags:
@@ -81,7 +81,7 @@ def main():
                     note = midi.G_3
                 elif 'R' in flags:
                     note = midi.F_3
-
+		
             # Determine the octave based on the src and dst IPs
             octave = hash((data['src'], data['dst'])) % 6 + 2
             note = note + octave * 5
@@ -90,15 +90,15 @@ def main():
 		note  = MAX_OCTAVE
 
             # Finally, append the note to the track, Velocity is between 0 and 127
-            track.append(midi.NoteOnEvent(tick=0, velocity=0, pitch=note))
-            track.append(midi.NoteOffEvent(tick=350, pitch=note))
+            track.append(midi.NoteOnEvent(tick=0, velocity=70, pitch=note))
+            track.append(midi.NoteOffEvent(tick=250, pitch=note))
 	    track.append(midi.ProgramChangeEvent(data=[4]))
 
-	    track2.append(midi.NoteOnEvent(tick=0, velocity=90,pitch=note))
+	    track2.append(midi.NoteOnEvent(tick=0, velocity=60,pitch=note))
             track2.append(midi.NoteOffEvent(tick=150, pitch=note))
 	    track2.append(midi.ProgramChangeEvent(data=[117]))
 	    
-	    track3.append(midi.NoteOnEvent(tick=0, velocity=60, pitch=note))
+	    track3.append(midi.NoteOnEvent(tick=0, velocity=0, pitch=note))
             track3.append(midi.NoteOffEvent(tick=500, pitch=note))
 	    track3.append(midi.ProgramChangeEvent(data=[58]))
 
