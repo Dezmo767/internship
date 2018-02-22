@@ -85,9 +85,8 @@ TCP_Dump_Intern.py | the "Music" Script
 | 32 |Acoustic Bass           | 65  |Alto Sax                   | 98  |FX 3 (crystal)        |||
 
 + Change an Instrument
-> It's on line 93 - 95
-```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))
-   track.append(midi.NoteOffEvent(tick=250, pitch=note))
-   track.append(midi.ProgramChangeEvent(**data=[0]**))```
-   
-   Change Data to one of the Numbers in the Table of Instruments
+> <p>It's on line 93 - 95</p>
+```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))```
+```track.append(midi.NoteOffEvent(tick=250, pitch=note))```
+```track.append(midi.ProgramChangeEvent(**data=[0]**))``` 
+<p>Change Data to one of the Numbers in the Table of Instruments</p>
