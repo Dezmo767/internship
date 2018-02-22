@@ -44,6 +44,26 @@ def main():
     pattern.append(track4)
     track5 = midi.Track()
     pattern.append(track5)
+    track6 = midi.Track()
+    pattern.append(track6)
+    track7 = midi.Track()
+    pattern.append(track7)
+    track8 = midi.Track()
+    pattern.append(track8)
+    track9 = midi.Track()
+    pattern.append(track9)
+    track10 = midi.Track()
+    pattern.append(track10)
+    track11 = midi.Track()
+    pattern.append(track11)
+    track12 = midi.Track()
+    pattern.append(track12)
+    track13 = midi.Track()
+    pattern.append(track13)
+    track14 = midi.Track()
+    pattern.append(track14)
+    track15 = midi.Track()
+    pattern.append(track15)
 
 
     last_time = datetime.now()
@@ -90,25 +110,65 @@ def main():
 		note  = MAX_OCTAVE
 
             # Finally, append the note to the track, Velocity is between 0 and 127
-            track.append(midi.NoteOnEvent(tick=0, velocity=70, pitch=note))
+            track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))
             track.append(midi.NoteOffEvent(tick=250, pitch=note))
-	    track.append(midi.ProgramChangeEvent(data=[4]))
+	    track.append(midi.ProgramChangeEvent(data=[0]))
 
-	    track2.append(midi.NoteOnEvent(tick=0, velocity=60,pitch=note))
-            track2.append(midi.NoteOffEvent(tick=150, pitch=note))
-	    track2.append(midi.ProgramChangeEvent(data=[117]))
+	    track2.append(midi.NoteOnEvent(tick=100, velocity=127, pitch=midi.C_3))
+            track2.append(midi.NoteOffEvent(tick=350, pitch=midi.C_3))
+	    track2.append(midi.ProgramChangeEvent(data=[116]))
 	    
-	    track3.append(midi.NoteOnEvent(tick=0, velocity=40, pitch=note))
-            track3.append(midi.NoteOffEvent(tick=500, pitch=note))
-	    track3.append(midi.ProgramChangeEvent(data=[58]))
+	    track3.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))
+            track3.append(midi.NoteOffEvent(tick=150, pitch=note))
+	    track3.append(midi.ProgramChangeEvent(data=[53]))
 
-	     #track4.append(midi.NoteOnEvent(tick=0, velocity=127, pitch=note))
-             #track4.append(midi.NoteOffEvent(tick=1000, pitch=note))
-	     #track4.append(midi.ProgramChangeEvent(data=[52]))
+	    track4.append(midi.NoteOnEvent(tick=0, velocity=50, pitch=note))
+            track4.append(midi.NoteOffEvent(tick=300, pitch=note))
+	    track4.append(midi.ProgramChangeEvent(data=[9]))
 	  
-	     #track5.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
-             #track5.append(midi.NoteOffEvent(tick=500, pitch=note))
-	     #track5.append(midi.ProgramChangeEvent(data=[52]))
+	    track5.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+            track5.append(midi.NoteOffEvent(tick=500, pitch=note))
+	    track5.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track6.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track6.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track6.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track7.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track7.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track7.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track8.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track8.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track8.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track9.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track9.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track9.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track10.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track10.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track10.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track11.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track11.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track11.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track12.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track12.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track12.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track13.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track13.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track13.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track14.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track14.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track14.append(midi.ProgramChangeEvent(data=[52]))
+
+	     #track15.append(midi.NoteOnEvent(tick=0, velocity=100, pitch=note))
+             #track15.append(midi.NoteOffEvent(tick=500, pitch=note))
+	     #track15.append(midi.ProgramChangeEvent(data=[52]))
 
         line = sys.stdin.readline()
 
@@ -116,8 +176,18 @@ def main():
     track.append(midi.EndOfTrackEvent(tick=1))
     track2.append(midi.EndOfTrackEvent(tick=1))
     track3.append(midi.EndOfTrackEvent(tick=1))
-    # track4.append(midi.EndOfTrackEvent(tick=1))
-    # track5.append(midi.EndOfTrackEvent(tick=1))
+    track4.append(midi.EndOfTrackEvent(tick=1))
+    track5.append(midi.EndOfTrackEvent(tick=1))
+    # track6.append(midi.EndOfTrackEvent(tick=1))
+    # track7.append(midi.EndOfTrackEvent(tick=1))
+    # track8.append(midi.EndOfTrackEvent(tick=1))
+    # track9.append(midi.EndOfTrackEvent(tick=1))
+    # track10.append(midi.EndOfTrackEvent(tick=1))
+    # track11.append(midi.EndOfTrackEvent(tick=1))
+    # track12.append(midi.EndOfTrackEvent(tick=1))
+    # track13.append(midi.EndOfTrackEvent(tick=1))
+    # track14.append(midi.EndOfTrackEvent(tick=1))
+    # track15.append(midi.EndOfTrackEvent(tick=1))
     midi.write_midifile(output_file, pattern)
     
 
