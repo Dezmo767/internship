@@ -89,4 +89,8 @@ TCP_Dump_Intern.py | the "Music" Script
 ```track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))```<br>
 ```track.append(midi.NoteOffEvent(tick=250, pitch=note))```<br>
 ```track.append(midi.ProgramChangeEvent(data=[0]))```<br>
-Change Data=[**0**] to one of the Numbers in the Table of Instruments
++ Change _Data=[**0**]_ to one of the Numbers in the Table of Instruments to select a new Instruments.
++ Change the _velocity=**50**_ to another number between 0 and 127 to change the Hit intensity of a Piano par exemple.
++ Change the Tick of _track.append(midi.NoteOnEvent(tick=**400**, velocity=50, pitch=note))_ to change the hit speed (delay for hit another Key).
++ Change the Tick of _track.append(midi.NoteOffEvent(tick=**250**, pitch=note))_ to modifier how long the Key is being pressed.
+
