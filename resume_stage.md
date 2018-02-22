@@ -1,4 +1,4 @@
-# internship
+# Praktikums Bericht
 
 ## 19 feb 2018
 
