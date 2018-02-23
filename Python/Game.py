@@ -10,6 +10,9 @@ wn.bgcolor("black")
 wn.setup(700,700)
 wn.title("That Good Game")
 
+#Create a Help Window
+
+
 #Create a Border
 border_pen = turtle.Turtle()
 border_pen.setposition(-300,300)
@@ -33,7 +36,7 @@ Player.setheading(90)
 Player.penup()
 
 playerspeed = 15
-#Create Controlls left and right
+#Create Controlls
 def move_left():
         x = Player.xcor()
         x -= playerspeed
@@ -61,14 +64,28 @@ def move_down():
         if y < -280:
                 y = -280
         Player.sety(y)
+        
+def move_pendown():
+	Player.pendown()
+
+def move_penup():
+	Player.penup()
+	
+def game_exit():
+	exit()
+
 
 
 #Key bindings
 turtle.listen()
-turtle.onkeypress(move_left, "Left")
-turtle.onkeypress(move_right, "Right")
-turtle.onkeypress(move_up, "Up")
-turtle.onkeypress(move_down, "Down")
+turtle.onkey(move_left, "Left")
+turtle.onkey(move_right, "Right")
+turtle.onkey(move_up, "Up")
+turtle.onkey(move_down, "Down")
+turtle.onkey(move_pendown, "w")
+turtle.onkey(move_penup, " ")
+turtle.onkey(game_exit, "Escape")
 
-#display = input("Press Enter to Start the Game")
+
+display = input("Press Enter to close the Game")
 
