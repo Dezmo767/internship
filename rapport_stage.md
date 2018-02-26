@@ -1,4 +1,5 @@
 # Praktikums Bericht
+# Woche 1
 
 ## 19 feb 2018
 
@@ -44,3 +45,12 @@ Der Fünfte Arbeitstag fing ganz chaotisch an ich vergass meine Zugangskarte und
 Danach schrieb ich an 2 weiteren Scrips dem pingpong.py und dem Game.py das Game.py ist eine Tutorial Datei die ich selbst in einem Video Kurse angelegt hab.
 Zudem habe ich mein Praktikums Bericht von Donnerstag und Freitag geschrieben.
 Um 15:30 hatte ich dann feierabend.
+
+# Woche 2
+
+## 26 feb 2018
+
+### actions
+```Montag```
+Meine 2 Woche Startete gut ich kam um 8:00 und began sofort mit Programmieren meines Game.py und habe zu dem mein Bericht vom Freitag dem 22 Febuar 2018 überarbeitet nachdem ich in mein "Wochen Buch" geschaut habe dann gin ich um 12:00 essen und war um 12:30 wieder an der Arbeit dann programmierte ich mein Game.py fertig und Startete mit dem programm test.py indem mir die Tutoriaal schritte von Game.py genauer erklärt wurden.
+Dann habe ich das von meinem Tuteur Mathieu ausgewählte Buch angefangen "Black Hat Python"  zu lesen bis Kapitel 3 was etwa 38 Seiten sind und habe jeden Code snipsel aufgeschrieben und getestet was mich wundert den die Hälfte funktionierte im SMILE Netzwerk nicht oder ich bekam eine Python fehler meldung dass der Host server den ich selbst aufgesetzt habe nicht reagieren wurde, wie dem auch sei das TCP Sniff programm funktionierte 
