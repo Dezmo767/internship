@@ -40,6 +40,7 @@ Um 17:45 hatte ich dann feier abend, es war +-1 überstunde damit ich Freitag 1 
 
 ### actions
 ```Freitag```
-Der Fènfte Arbeitstag fing ganz chaotisch an ich vergass meine Zugangskarte und konnte so nur um 7:50 mit der Arbeit anfangen ich schrieb mein Draw_Game.py fertig bis 12:00 dann ging ich bis 12:30 essen.
+Der Fünfte Arbeitstag fing ganz chaotisch an ich vergass meine Zugangskarte und konnte so nur um 7:50 mit der Arbeit anfangen ich schrieb mein Draw_Game.py fertig bis 12:00 dann ging ich bis 12:30 essen.
 Danach schrieb ich an 2 weiteren Scrips dem pingpong.py und dem Game.py das Game.py ist eine Tutorial Datei die ich selbst in einem Video Kurse angelegt hab.
+Zudem habe ich mein Praktikums Bericht von Donnerstag und Freitag geschrieben.
 Um 15:30 hatte ich dann feierabend.
