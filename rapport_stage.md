@@ -64,3 +64,4 @@ Um 16:30 habe ich dann Feierabend.
 Am Dienstag fing meine schicht um 7:40 an. Ich fing damit an mein Computer zu updaten und neue sicherheits update für Ubuntu 14.04 LTS zu installieren, dannach fing ich ein weiters Python Pygame Tutorial was mich sehr weit brachte denn jetzt verstehe ich auch die grund lagen von Python mehr oder Weniger gut und kann dann morgen anfangen das TCP Dump Script vollständig erklärt zu dokumentieren.
 Um 12:00 hatte ich Mittagspause bis 12:22.
 Danach habe ich mich über UDP informiert und über die python module socket, sys, time, os und Threading.
+Zudem habe ich mich über Netzwerke informiert damit ich genau weiss wie TCP UDP und andere protokolle die die kommunikazion über das Internet ermöglichen.
