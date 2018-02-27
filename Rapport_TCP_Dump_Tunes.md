@@ -95,3 +95,14 @@ TCP_Dump_Intern.py | the "Music" Script
 + Change the Tick of _track.append(midi.NoteOffEvent(tick=**250**, pitch=note))_ to modifier how long the Key is being pressed.
 + Change the pitch=**note** to an other Value to make lower or brigth Tones, note are a Variable it means it change the pitch alone based on the Flags of the TCP.
 
+### Change Variable
+><p>It's on line 13-19</p>
+```MIN_SPACING = 20```<br>
+``` MIN_LENGTH = 25```<br>
+``` MAX_OCTAVE = 100```<br>
+``` midi.type = 1 ```<br>
++ Change MIN_SPACING = **20** will change the difference between now and the last event.
++ Change MIN_LENGTH = **25** to determinate the note length based on the packet length.
++ Change MAX_OCTAVE = **100** means to set am Maximal Octave hight when the script say the Octave is 101 then it get reset to 100.
++ Chnage midi.type = **1** will change the type the music get combined 0 = midi Standart, 1 = synchron, 2 = ansynchron.
+
