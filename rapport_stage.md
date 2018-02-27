@@ -56,3 +56,9 @@ Meine 2 Woche Startete gut ich kam um 8:00 und began sofort mit Programmieren me
 Dann habe ich das von meinem Tuteur Mathieu ausgewählte Buch angefangen "Black Hat Python"  zu lesen bis Kapitel 3 was etwa 38 Seiten sind und habe jeden Code snipsel aufgeschrieben und getestet was mich wundert den die Hälfte funktionierte im SMILE Netzwerk nicht oder ich bekam eine Python fehler meldung dass der Host server den ich selbst aufgesetzt habe nicht reagieren wurde, wie dem auch sei das TCP Sniff programm funktionierte ohne fehler und ich konnte auslesen dass ich von google.com automatisch auf google.lu weiter geleitet wurde ohne dass in der Adress Zeile eine änderung zu sehen war und ohne mitteilung an den End benutzer.
 Dannach schrieb ich den Bericht von 26 Febuar 2018 bis 16:30
 Um 16:30 habe ich dann Feierabend.
+
+## 27 feb 2018
+
+### actions
+```Dienstag```
+Am Dienstag fing meine schicht um 7:40  an 
