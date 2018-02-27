@@ -66,3 +66,4 @@ Um 12:00 hatte ich Mittagspause bis 12:22.
 Danach habe ich mich über UDP informiert und über die python module socket, sys, time, os und Threading.
 Zudem habe ich mich über Netzwerke informiert damit ich genau weiss wie TCP UDP und andere protokolle die die kommunikazion über das Internet ermöglichen.
 Zudem habe ich Emilie geholfen ein bild zu bearbeiten mit Gimp für die Hack4kids seite ich musste dass bild bloss auf eine 1024x256 setzen und es bewegen damit die schrift in der mitte ist.
+Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 hatte ich dann feierabend.
