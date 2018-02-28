@@ -67,3 +67,9 @@ Danach habe ich mich über UDP informiert und über die python module socket, sy
 Zudem habe ich mich über Netzwerke informiert damit ich genau weiss wie TCP UDP und andere protokolle die die kommunikazion über das Internet ermöglichen.
 Zudem habe ich Emilie geholfen ein bild zu bearbeiten mit Gimp für die Hack4kids seite ich musste dass bild bloss auf eine 1024x256 setzen und es bewegen damit die schrift in der mitte ist.
 Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 hatte ich dann feierabend.
+
+## 27 feb 2018
+
+### actions
+```Mittwoch```
+Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach
