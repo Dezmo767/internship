@@ -73,3 +73,8 @@ Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 ha
 ### actions
 ```Mittwoch```
 Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach
+
+## 1 märz 2018
+
+### actions
+```Donnerstag```
