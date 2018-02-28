@@ -33,7 +33,7 @@ Um 16:30 hatte ich dann Feierabend.
 
 ### actions
 ```Donnerstag```
-Mein Vierter Arbeitstag fing ganz Normal an, von 7:45 - 12:00 Arbeitete ich an dem TCP Dump Projekt und an dem Teho remix es gling mir dieses mal auch nicht.
+Mein Vierter Arbeitstag fing ganz Normal an, von 7:45 - 12:00 Arbeitete ich an dem TCP Dump Projekt und an dem Techo remix es gling mir dieses mal auch nicht.
 Die Mittagspause fand von 12:00 - 12:30 statt, danachinformierte ich mich über python modules und programmierte ein kleines script zu den ahbe ich gelernt wie TCP genau funktioniert.
 Um 17:45 hatte ich dann feier abend, es war +-1 überstunde damit ich Freitag 1 stunde früher gehen kann.
 
