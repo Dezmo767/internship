@@ -72,7 +72,8 @@ Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 ha
 
 ### actions
 ```Mittwoch```
-Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach informierte ich ich über das Python turtle Module bis 8:30
+Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach informierte ich ich über das Python turtle Module bis 8:30.
+Zudem habe ich mich über den Raspberry Pi informiert mit SemperVideo email Server und Webserver sowie des erst einrichten des Raspberry Pi via Putty SSH.
 
 ## 1 märz 2018
 
