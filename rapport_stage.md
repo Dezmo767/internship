@@ -26,7 +26,7 @@ Von 12:20 - 13:20 hatte ich Mittagspause direkt danach Arbeitete ich weiter an d
 Der Dritte Arbeitstag startete um 8:00.
 Von 8:00 bis 12:00 arbeitete ich an dem TCP Dump Tunes Bericht und Mixte eine Heart beat mit verschiedenen Instrumente zusammen zu dem schrieb ich den Praktikums Bericht von 20 febuar 2018.
 Von 12:00 bis 12:25 hatte ich Mittagspause.
-Dann vom 12:25 bis 15:00 arbeitete ich an dem TCP Dump projekt weiter und habe eine Test Datei erstellt um einen Techno Remix zu erstellen leider gelang mir das nicht und zu guter letzt informierte ich mich von 15:00 bis 16:30 an dem TCP Protokoll, Python syntax dann erstellte iich erneut eine Test Datei die mir auch nicht gelang.
+Dann vom 12:25 bis 15:00 arbeitete ich an dem TCP Dump projekt weiter und habe eine Test Datei erstellt um einen Techno Remix zu erstellen leider gelang mir das nicht und zu guter letzt informierte ich mich von 15:00 bis 16:30 an dem TCP Protokoll, Python syntax dann erstellte ich erneut eine Test Datei die mir auch nicht gelang.
 Um 16:30 hatte ich dann Feierabend.
 
 ## 21 feb 2018
@@ -72,7 +72,7 @@ Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 ha
 
 ### actions
 ```Mittwoch```
-Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach
+Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach informierte ich ich über das Python turtle Module bis 8:30
 
 ## 1 märz 2018
 
