@@ -74,7 +74,8 @@ Danach habe ich mich noch über Mirai und IOC Geräte informiert und um 16:00 ha
 ```Mittwoch```
 Mein Arbeitstag startete um 7:25 ich fing damit an meinen Praktikumsbericht zu lesen und zu über arbeiten das dauerte bis 8:00 dannach informierte ich ich über das Python turtle Module bis 8:30.
 Zudem habe ich mich über den Raspberry Pi informiert mit SemperVideo email Server und Webserver sowie des erst einrichten des Raspberry Pi via Putty SSH.
-Zudem habe ich mit Joanna gesprochen um auf einem Raspberry Pi eine MediaCenter via Kodi zu installieren.
+Um 12:00 bis 12:30 hatte ich dann Mittagspause.
+Nachdem habe ich mit Joanna gesprochen um auf einem Raspberry Pi eine MediaCenter via Kodi zu installieren.
 Kodi macht nicht anderes als dir die Gratis programme anzuzeigen die du dann schauen kanns zudem kanns du auch ein Addon herunterladen mit dem du die "Pay Tv" schauen kanns das ist aber illegal und wird deshalb auch nicht von uns eingestellt, zudem muss man am Raspberry Pi warscheinlich die Hardwäre beschleunigung ausschalten damit ein Bild angezeigt wird.
 
 ## 1 märz 2018
