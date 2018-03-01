@@ -85,4 +85,5 @@ Zudem Habe ich das Buch Hello World für python weitergelesen meine schicht ende
 ```Donnerstag```
 Meine Arbeitstag startete um 7:50 ich fing damit an meinen Praktikumsbericht zu schreiben von Donnerstag dem 1 März 2018.
 Und schaute mir eine Version des Webservers an um nachher mit Mathieu den Webserver auf einem Raspberry Pi zu installieren.
+Dann habe ich Emilie gefragt op sie ein HDMI Kabel und ein Power Supply also ein Netzteil für den Raspberry Pi hat, leider hatte sie keinen der Beiden und auch das Netzteil hatte sie nicht sie hat Steve angerufen aus einer anderen Abteilung Circle der aber nicht antwortete so musste ich dann einen Anderen Mitarbeiter Fragen der mir dann das Netzteil und HDMI Kabel gab.
 
