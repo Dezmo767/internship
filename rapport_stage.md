@@ -85,5 +85,9 @@ Zudem Habe ich das Buch Hello World für python weitergelesen meine schicht ende
 ```Donnerstag```
 Meine Arbeitstag startete um 7:50 ich fing damit an meinen Praktikumsbericht zu schreiben von Donnerstag dem 1 März 2018.
 Und schaute mir eine Version des Webservers an um nachher mit Mathieu den Webserver auf einem Raspberry Pi zu installieren.
-Dann habe ich Emilie gefragt op sie ein HDMI Kabel und ein Power Supply also ein Netzteil für den Raspberry Pi hat, leider hatte sie keinen der Beiden und auch das Netzteil hatte sie nicht sie hat Steve angerufen aus einer anderen Abteilung Circle der aber nicht antwortete so musste ich dann einen Anderen Mitarbeiter Fragen der mir dann das Netzteil und HDMI Kabel gab.
+Dann habe ich Emilie gefragt op sie ein HDMI Kabel und ein Power Supply also ein Netzteil für den Raspberry Pi hat, leider hatte sie keinen der Beiden und auch das Netzteil hatte sie nicht sie hat Steve angerufen aus einer anderen Abteilung Circle der aber nicht antwortete so musste ich dann Fabian Fragen der mir dann das Netzteil und HDMI Kabel gab.
+Das dauerte eineinhalb stunden dannach fing ich an meinen Raspberry Pi mit Apache2, PHP, MYSQL und Phpmyadmin.
+Um 12:00 bis 12:20 hatte ich dann Mittagspause.
+Als ich fertig war gab ich das HDMI kabel wieder an Fabian der mir dann sagte ich soll das HDMI kabel behalten bis ich fertig mit dem Projekt bin zudem machte er mich drauf aufmerksam dass phpmyadmin nur Sicherheitslücken hat und ich es bevor wir es ins Internet freistellen das Programm deinstallieren soll ansonsten kann es dadurch zu problemen im internen netzwerk kommen, so deinstallierte ich dies sofort wieder ich Testete Apache2 und es funktionierte alles.
+Jetzt Räumte ich mein Schreibtisch auf den Rita sagte mir dass ein anderer Praktikant mit mir den Schreibtisch teilen muss.
 
