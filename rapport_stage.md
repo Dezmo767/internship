@@ -83,3 +83,5 @@ Zudem Habe ich das Buch Hello World für python weitergelesen meine schicht ende
 
 ### actions
 ```Donnerstag```
+Meine Arbeitstag startete um 7:50 ich fing damit an meinen Praktikumsbericht zu schreiben von Donnerstag dem 1 März 2018.
+
