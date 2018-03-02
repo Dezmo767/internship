@@ -97,4 +97,6 @@ Dann habe ich mich über Social Engineering informiert und meine Schicht endete 
 ### actions
 ```Freitag```
 Mein Arbeitstag startete um 7:50 ich fing damit an mich ganz gründlich über Social Engineering zu informieren.
+Um 12:05 - 12:30 hatte ich Mittagspause.
+Dannach informierte ich mich über Social Engineering Technik das Phising genannt wird.
 
