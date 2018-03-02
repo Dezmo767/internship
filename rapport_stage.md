@@ -90,5 +90,11 @@ Das dauerte eineinhalb stunden dannach fing ich an meinen Raspberry Pi mit Apach
 Um 12:00 bis 12:20 hatte ich dann Mittagspause.
 Als ich fertig war gab ich das HDMI kabel wieder an Fabian der mir dann sagte ich soll das HDMI kabel behalten bis ich fertig mit dem Projekt bin zudem machte er mich drauf aufmerksam dass phpmyadmin nur Sicherheitslücken hat und ich es bevor wir es ins Internet freistellen das Programm deinstallieren soll ansonsten kann es dadurch zu problemen im internen netzwerk kommen, so deinstallierte ich dies sofort wieder ich Testete Apache2 und es funktionierte alles.
 Jetzt Räumte ich mein Schreibtisch auf den Rita sagte mir dass ein anderer Praktikant mit mir den Schreibtisch teilen muss.
-Dann habe ich mich über Social Engineering informiert und meine Schicht endete um 16:00.
+Dann habe ich mich über Social Engineering informiert und meine Schicht endete um 16:05.
+
+## 2 märz 2018
+
+### actions
+```Freitag```
+Mein Arbeitstag startete um 7:50 ich fing damit an mich ganz gründlich über Social Engineering zu informieren.
 
