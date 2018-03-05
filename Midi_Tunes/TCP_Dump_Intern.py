@@ -174,7 +174,7 @@ def main():
 
         line = sys.stdin.readline()
 
-    # Dump MIDI track to stdout add the track.append(midi.EndOfTrackEvent(tick=1)) and change the number behind the track to add an new track.
+    # Dump MIDI track to stdout add the track.append(midi.EndOfTrackEvent(tick=1)) and change the number behind the track to add a track
     track.append(midi.EndOfTrackEvent(tick=1))
     track2.append(midi.EndOfTrackEvent(tick=1))
     track3.append(midi.EndOfTrackEvent(tick=1))
