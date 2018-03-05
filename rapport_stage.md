@@ -101,3 +101,10 @@ Um 12:05 - 12:30 hatte ich Mittagspause.
 Dannach informierte ich mich über Social Engineering Technik das Phising genannt wird.
 Eine Phising Methode wird von SE (Ein type der Social Engineering ausführt) ausgeführt ist dass man einen oder mehrere USB-Sticks mit Keyloggern oder Trojaner bestick der dann dem Angreiffer dem SE informationen gib wie z.b amazon Password oder Kredit Karten informationen was ziemlich erschreckend ist weil sie eine Erfolgsrate von bis zu 60% haben, anrufe von SE sind sogar noch erfolgreicher mit 70% bei ungeschulten Menschen.
 Meine Schicht endete dann um 16:05
+
+# Woche 3
+
+## 5 märz 2018
+
+### actions
+```Montag```Mein Arbeitstag began um 7:50 und ich began damit das Buch Social Engineering weiter zu lesen um 8:00 uhr kam dann ein anderer Praktikant Namens ___ Rita zeigte im alles, danach
