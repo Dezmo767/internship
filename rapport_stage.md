@@ -107,4 +107,5 @@ Meine Schicht endete dann um 16:05
 ## 5 märz 2018
 
 ### actions
-```Montag```Mein Arbeitstag began um 7:50 und ich began damit das Buch Social Engineering weiter zu lesen um 8:00 uhr kam dann ein anderer Praktikant Namens Luca Rita zeigte im alles, danach
+```Montag```Mein Arbeitstag began um 7:50 und ich began damit das Buch Social Engineering weiter zu lesen um 8:00 uhr kam dann ein anderer Praktikant Namens Luca Rita zeigte im alles, danach habe ich ihm alles erklärt und habe dann an TCP Dump gearbeitet zu dem habe ich das Buch SE  weiter gelesen und bei map.circl.lu was spannendes über IP adressen heraus gefunden.
+Meine Schicht endete dann um 4:35
