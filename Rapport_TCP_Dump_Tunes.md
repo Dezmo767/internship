@@ -104,5 +104,5 @@ TCP_Dump_Intern.py | the "Music" Script
 + Change MIN_SPACING = **20** will change the difference between now and the last event.
 + Change MIN_LENGTH = **25** to determinate the note length based on the packet length.
 + Change MAX_OCTAVE = **100** means to set an Maximal Octave hight when the script say the Octave is 101 then it get reset to 100.
-+ Chnage midi.type = **1** will change the type the music get combined 0 = midi Standart, 1 = synchron, 2 = ansynchron.
++ Chnage midi.type = **1** will change the type the music get combined 0 = midi Standart (ansynchron all in one track), 1 = synchron (Diffrent Tracks but all synchron), 2 = ansynchron ( Diffrent Tracks but ansynchron)
 
