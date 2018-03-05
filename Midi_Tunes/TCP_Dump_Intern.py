@@ -10,11 +10,11 @@ from datetime import datetime
 import midi
 
 
-MIN_SPACING = 20
-MIN_LENGTH = 25
-MAX_OCTAVE = 100
+MIN_SPACING = 20 	# will change the difference between now and the last event.
+MIN_LENGTH = 25		# to determinate the note length based on the packet length.
+MAX_OCTAVE = 100	# means to set an Maximal Octave hight when the script say the Octave is 101 then it get reset to 100.
 
-# midi.type is the synchronisation of the Music, 0 = midi Standart, 1 = synchron, 2 = ansynchron 
+# midi.type is the synchronisation of the Music, 0 = midi Standart (ansynchron all in one track), 1 = synchron (Diffrent Tracks but all synchron), 2 = ansynchron ( Diffrent Tracks but ansynchron)
 
 midi.type = 1
 
@@ -32,10 +32,12 @@ def main():
         output_file = sys.stdout
     else:
         output_file = open(args.f, 'w')
-
+# To add track you can copy the first track (track = midi.Track() pattern.append(track)) an change the number behind.
     pattern = midi.Pattern()
+    ###########################
     track = midi.Track()
     pattern.append(track)
+    ###########################
     track2 = midi.Track()
     pattern.append(track2)
     track3 = midi.Track()
@@ -92,7 +94,7 @@ def main():
             # determine the note to play based on TCP flags
             note = midi.E_3 # Modifire midi.C_3 to midi.E_3
             flags = data.get('flags', '')
-            if flags:
+            if flags: # You can change the note D C G F how do you want.
                 if 'S' in flags:
                     note = midi.D_3
                 elif '.' in flags:
@@ -109,7 +111,7 @@ def main():
 	    if note > MAX_OCTAVE:
 		note  = MAX_OCTAVE
 
-            # Finally, append the note to the track, Velocity is between 0 and 127
+            # Finally, append the note to the track, Velocity is between 0 and 127 also just copy the first 3 lines to add an track don't forget to change the number behind track.
             track.append(midi.NoteOnEvent(tick=400, velocity=50, pitch=note))
             track.append(midi.NoteOffEvent(tick=250, pitch=note))
             track.append(midi.ProgramChangeEvent(data=[0]))
@@ -172,7 +174,7 @@ def main():
 
         line = sys.stdin.readline()
 
-    # Dump MIDI track to stdout
+    # Dump MIDI track to stdout add the track.append(midi.EndOfTrackEvent(tick=1)) and change the number behind the track to add an new track.
     track.append(midi.EndOfTrackEvent(tick=1))
     track2.append(midi.EndOfTrackEvent(tick=1))
     track3.append(midi.EndOfTrackEvent(tick=1))
