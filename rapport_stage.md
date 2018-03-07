@@ -107,5 +107,23 @@ Meine Schicht endete dann um 16:05
 ## 5 märz 2018
 
 ### actions
-```Montag```Mein Arbeitstag began um 7:50 und ich began damit das Buch Social Engineering weiter zu lesen um 8:00 uhr kam dann ein anderer Praktikant Namens Luca Rita zeigte im alles, danach habe ich ihm alles erklärt und habe dann an TCP Dump gearbeitet zu dem habe ich das Buch SE  weiter gelesen und bei map.circl.lu was spannendes über IP adressen heraus gefunden.
-Meine Schicht endete dann um 4:35
+```Montag```
+Mein Arbeitstag began um 7:50 und ich began damit das Buch Social Engineering weiter zu lesen um 8:00 uhr kam dann ein anderer Praktikant Namens Luca Rita zeigte im alles, danach habe ich ihm alles erklärt und habe dann an TCP Dump gearbeitet zu dem habe ich das Buch SE  weiter gelesen und bei map.circl.lu was spannendes über IP adressen heraus gefunden.
+Danach hatte ich von 12:05 - 12:35 Mittagspause.
+Danach ging es um 3D printer und nach motiven zu suchen um einen Test druck auszuführen.
+Meine Schicht endete dann um 16:35
+
+## 6 märz 2018
+
+### actions
+```Dienstag```
+Mein Arbeistag startete wie gewohnt um 7:35 und ich began damit meinen Praktikumsberricht zu überlesen und zu bearbeiten, danach Frage Rita mich op ich ihr Helfen könnte im Meating Raum ein bisschen um zu Räumen was ich dann auch tat.
+Als dann Luca der neue Praktikand an kam erklärte uns Fabian die Server von SMILE und auch den NAS (Netzwork Attached Storage) Server von 2 x 48 TB wo schon 39 TB nur für interne zwecke verwendet wurden dann kommen noch die externen dazu wo er mir leider keine genaue auszunft geben kann denn er ist nicht dafür zuständig.
+Von 12:00 bis 12:40 war ich dann Mittagessen.
+Danach ging es direkt weiter mit SE und 3D Printern und 3D Pen's Luca und ich dürften uns was zum Drucken aus suchener nahm ein Emblem von The Legend of Zelda was leider nicht geprintet werden kann wegen der Beschaffenheit des Plastiks und der Konstruktion im 3D Grafik Model danach suchte er sich Happy Ditto von Pokemon aus, ich hin gegen war noch unentschieden was ich Drucken sollte so beschloss ich noch zu warten direkt danach endete meine Schicht um 16:15.
+
+## 7 märz 2018
+
+### actions
+```Mittwoch```
+Mein Arbeistag startete etwas später wie sonst um 7:55  ich fing damit an den Bericht von Dienstag zu schreiben denn ich hatte ihn ganz vergessen zudem bearbeitete ich den Bericht von Montag.
