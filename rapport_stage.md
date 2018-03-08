@@ -136,3 +136,6 @@ Als ich damit fertig war bat Bashma mich um hilfe sie hatte probleme einen Beric
 ### actions
 ```Donnerstag```
 Mein Tag startete um 7:50 und ich fing damit an den Bericht von Bashma weiter zu schreiben bei dem Teil wo sie nicht weiss was die Befehle von Scratch bedeuteten, danach kam Matthieu und Zeige mir wie ich ein Schloss knacken kann ohne Schlüssel was ziemlich einfach war wenn man es 3 mal hintereinander geschaft hat dauerte es nur 10 Sek bis 2 min um ein Schloss zu öffnen.Danach kam Gerard und begleitete uns zum Circl Büro wo er uns erklärte was Circl alles für Privat Unternehmen macht und wie sie Malware finden und unschädlich machen zudem informieren sie Personnen deren Kreditkarten gehackt wurden und lassen diese Speere, die presentation dauerte ungefär eine Stunde.
+Dann hatte ich Mittags pause von 12:10 -12:50.
+Dann haben wir probiert den 3D printer zu Reparieren was Matthieu geschaft hatte und konnte dann auch noch einen TSA 007 Schlüssel auszu drucken was eine ganz grosse Sicherheits Lücke ist denn jeder kann so einen Schlüssel ausdrucken oder selber machen mit einem 3D pen was aber viel Schwerer ist.
+Meine Schicht endetet dann um 16:00
