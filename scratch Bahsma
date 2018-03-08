@@ -1,0 +1,5 @@
+Der Befehl "Wenn ich Loss empfange" dann startet eine Bedingung die "falls Top Score < Score dann " wird der Befehl "setze Top Score auf Score" das bedeutet so viel wie wenn der Top score kleiner als Score ist dann setze Top Score auf Score, danach wir eine animation mit dem Befehl "gleite in 1 Sek. zu x: -30 y: 0" danach kommt eine Schleife die das inner 30 mal wiederholt "wiederhole 30 mal" und dann das was auszuführen ist also "drehe dich nach links um 3 Grad" was eine viel flüssigere animation zu folge hat als "drehe dich nach links um 90 Grade".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Der Befehl "Wenn ich Anim End empfange" starte eine Endlos Schleife "wiederhole fortlaufend" in der Schleife wir dann der Tim um -1 geändert mit dem Befehl "ändere Time um -1" dann wir eine Sekunde gewartet mit "warte 1 Sek." danach startet die Bedingung "falls Time < 0 dann " wir Loss an alle gesendet mit dem Befehl "sende Loss ann alle".
