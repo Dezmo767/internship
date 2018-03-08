@@ -126,4 +126,13 @@ Danach ging es direkt weiter mit SE und 3D Printern und 3D Pen's Luca und ich d�
 
 ### actions
 ```Mittwoch```
-Mein Arbeistag startete etwas später wie sonst um 7:55  ich fing damit an den Bericht von Dienstag zu schreiben denn ich hatte ihn ganz vergessen zudem bearbeitete ich den Bericht von Montag.
+Mein Arbeistag startete etwas später wie sonst um 7:55  ich fing damit an den Bericht von Dienstag zu schreiben denn ich hatte ihn ganz vergessen zudem bearbeitete ich den Bericht von Montag.Danach bekam ich von meinem Tuteur Matthieu eine aufgabe ich musste ein fast fertiges Scratch spiel bearbeiten.
+Um 12:00 bis 12:30 hatte ich dann MittagsPause
+Nach dem Mittag essen Arbeitet ich weiter an dem Scratch spiel, denn ich musste eine Klick funktion einfügen und einen Neue Karten Dealer erstellen dazu eignete sich die Anonymous Maske sehr gut, zudem musste ich Augen einfügen dem den Maus Zeiger Folgt.
+Als ich damit fertig war bat Bashma mich um hilfe sie hatte probleme einen Bericht über Scratch zu schreiben es war von 14:30 bis 16:15 danach hatte ich Feierabend.
+
+## 8 märz 2018
+
+### actions
+```Donnerstag```
+Mein Tag startete um 7:50 und ich fing damit an den Bericht von Bashma weiter zu schreiben bei dem Teil wo sie nicht weiss was die Befehle von Scratch bedeuteten, danach kam Matthieu und Zeige mir wie ich ein Schloss knacken kann ohne Schlüssel was ziemlich einfach war wenn man es 3 mal hintereinander geschaft hat dauerte es nur 10 Sek bis 2 min um ein Schloss zu öffnen.
