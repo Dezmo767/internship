@@ -158,4 +158,6 @@ Um 16:30 hatte ich dann Feierabend.
 Mein Tag startete um 7:55 und ich fing damit an meine Berichte zu überlesen und zu korriegieren,danach liess ich ```Spiele entwickeln``` zum Teil durch indem Buch geht es um Spiele entwickelung im allgemeinen von anfang bis zum Ende, auch wie man ein Team aufbauen und Koordinieren sollte, zudem Zeigt das Buch Studien gänge an und zeigt verschiedene Game Engine.
 Eine Game Engine vereinfacht das aufbauen von Spiel Welten und deren Logik ein beispiel wäre Unity Engine oder Unreal Engine.
 Danach habe ich ein Update von Ubuntu 14.04 LTS auf 16.04 LTS durch geführt und auch Scratch Offline Editor getestet weil Matthieu mich darauf aufmerksam gemacht hat dass es möglicher weise nicht mehr unterstüzt wird, das dauerte 1 Stunde lang.
-Um 12:00 hatte ich dann Mittags pause bis_________.
+Um 12:00 hatte ich dann Mittags pause bis 12:50.
+Danach probierte ich in einer VM MacOs 10.12 zu installieren denn wir haben ein Kickstarter produkt das nur auf MacOs oder App Store verfügbar ist HACKABALL heisst das programm und das Prdukt.
+Um 16:10 hatte ich dann feierabend.s
