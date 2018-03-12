@@ -154,4 +154,4 @@ Um 16:30 hatte ich dann Feierabend.
 
 ### actions
 ```Montag```
-Mein Tag startete um 7:55 und ich fing damit an meine Berichte zu überlesen und zu korriegieren,
+Mein Tag startete um 7:55 und ich fing damit an meine Berichte zu überlesen und zu korriegieren,danach liess ich ```Spiele entwickeln``` zum Teil durch,
