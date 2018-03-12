@@ -146,11 +146,12 @@ Meine Schicht endetet dann um 16:00
 ```Freitag```
 Mein Tag startete um 7:50 und ich fing damit an meinen Bericht zu schreiben von Donnerstag zudem half ich Luca bei seinem Scratch Game danach hatte ich von 12:00 bis 12:50 Mittagspause.
 Dann ging es weiter mit dem Scratch game und danach suchten wir die Drohnen und Stellten Fest dass die Drohnen kaputt waren das Bedeutet dass der C-Motor bei einer Drohne nicht Funktionierte und bei der anderen 1 A-Motor und 1 C-Motor, gut dass jede Drohne 2 A-Motoren hat und 2 C-Motoren dann könnten wir eine Drohne reparieren was wirklich nicht einfach ist denn die Drohnen sind klein und Teuer.
+Danach verabschiedete sich Luca denn er hatte hier mit sein Praktikum beendet.
 Um 16:30 hatte ich dann Feierabend.
 
 # Woche 4
 
-## 26 feb 2018
+## 12 märz 2018
 
 ### actions
 ```Montag```
