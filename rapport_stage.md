@@ -139,3 +139,11 @@ Mein Tag startete um 7:50 und ich fing damit an den Bericht von Bashma weiter zu
 Dann hatte ich Mittags pause von 12:10 -12:50.
 Dann haben wir probiert den 3D printer zu Reparieren was Matthieu geschaft hatte und konnte dann auch noch einen TSA 007 Schlüssel auszu drucken was eine ganz grosse Sicherheits Lücke ist denn jeder kann so einen Schlüssel ausdrucken oder selber machen mit einem 3D pen was aber viel Schwerer ist.
 Meine Schicht endetet dann um 16:00
+
+## 9 märz 2018
+
+### actions
+```Freitag```
+Mein Tag startete um 7:50 und ich fing damit an meinen Bericht zu schreiben von Donnerstag zudem half ich Luca bei seinem Scratch Game danach hatte ich von 12:00 bis 12:50 Mittagspause.
+Dann ging es weiter mit dem Scratch game und danach suchten wir die Drohnen und Stellten Fest dass die Drohnen kaputt waren das Bedeutet dass der C-Motor bei einer Drohne nicht Funktionierte und bei der anderen 1 A-Motor und 1 C-Motor, gut dass jede Drohne 2 A-Motoren hat und 2 C-Motoren dann könnten wir eine Drohne reparieren was wirklich nicht einfach ist denn die Drohnen sind klein und Teuer.
+Um 16:30 hatte ich dann Feierabend.
