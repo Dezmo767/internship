@@ -154,4 +154,5 @@ Um 16:30 hatte ich dann Feierabend.
 
 ### actions
 ```Montag```
-Mein Tag startete um 7:55 und ich fing damit an meine Berichte zu überlesen und zu korriegieren,danach liess ich ```Spiele entwickeln``` zum Teil durch,
+Mein Tag startete um 7:55 und ich fing damit an meine Berichte zu überlesen und zu korriegieren,danach liess ich ```Spiele entwickeln``` zum Teil durch indem Buch geht es um Spiele entwickelung im allgemeinen von anfang bis zum Ende, auch wie man ein Team aufbauen und Koordinieren sollte, zudem Zeigt das Buch Studien gänge an und zeigt verschiedene Game Engine.
+Eine Game Engine vereinfacht das aufbauen von Spiel Welten und deren Logik ein beispiel wäre Unity Engine oder Unreal Engine.
