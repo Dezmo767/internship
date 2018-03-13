@@ -160,4 +160,10 @@ Eine Game Engine vereinfacht das aufbauen von Spiel Welten und deren Logik ein b
 Danach habe ich ein Update von Ubuntu 14.04 LTS auf 16.04 LTS durch geführt und auch Scratch Offline Editor getestet weil Matthieu mich darauf aufmerksam gemacht hat dass es möglicher weise nicht mehr unterstüzt wird, das dauerte 1 Stunde lang.
 Um 12:00 hatte ich dann Mittags pause bis 12:50.
 Danach probierte ich in einer VM MacOs 10.12 zu installieren denn wir haben ein Kickstarter produkt das nur auf MacOs oder App Store verfügbar ist HACKABALL heisst das programm und das Prdukt.
-Um 16:10 hatte ich dann feierabend.s
+Um 17:10 hatte ich dann feierabend.
+
+## 13 märz 2018
+
+### actions
+```Dienstag```
+Mein Arbeitstag hat heute um 7:40 angefangen und ich startete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.
