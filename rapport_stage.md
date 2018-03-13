@@ -166,4 +166,4 @@ Um 17:10 hatte ich dann feierabend.
 
 ### actions
 ```Dienstag```
-Mein Arbeitstag hat heute um 7:40 angefangen und ich startete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.
+Mein Arbeitstag hat heute um 7:40 angefangen und ich startete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.Danach habe ich meinen Praktikums Bericht weiter geschrieben und eine Korrektur an dem Bericht von 12 März 2018 vorgenommen.
