@@ -167,3 +167,12 @@ Um 17:10 hatte ich dann feierabend.
 ### actions
 ```Dienstag```
 Mein Arbeitstag hat heute um 7:40 angefangen und ich startete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.Danach habe ich meinen Praktikums Bericht weiter geschrieben und eine Korrektur an dem Bericht von 12 März 2018 vorgenommen.
+Um 12:00 - 12:40 hatte ich Mittagspause.
+Danach bekam ich Arbeit mit dem Thema Big Data und Profiling, damit ich den Kindern bei Hack4Kids zwischen 8 und 10 jahren Beibringen kann was Big Data und Profiling ist.
+Um 16:10 hatte ich dann Feierabend.
+
+## 14 märz 2018
+
+### actions
+```Mittwoch```
+Ich war auf der Arbeit gegen 7:55 und ich habe damit an gefangen meinen Bericht zu schreiben und Arbeitete dann weiter an dem Big Data und Profiling Projekt weiter.
