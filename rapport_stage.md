@@ -176,3 +176,6 @@ Um 16:10 hatte ich dann Feierabend.
 ### actions
 ```Mittwoch```
 Ich war auf der Arbeit gegen 7:55 und ich habe damit an gefangen meinen Bericht zu schreiben und Arbeitete dann weiter an dem Big Data und Profiling Projekt weiter.
+Um 11:45 bis 12.15 hatte ich Mittagspause
+Danach habe ich mich ganz gründlich über Big Data und Python Algorithmen informiert denn Python ist einer der Wenigen programmier sprachen die mit sehr grossen Daten mengen zurecht kommen kann wenn man es ensprechend Programmiert wurde.
+Ich hatte dann um 15:30 Feierabend.
