@@ -184,5 +184,5 @@ Ich hatte dann um 15:30 Feierabend, weil ich noch 1 überstunde hatte davon nehm
 
 ### actions
 ```Donnerstag```
-Mein Arbeitstag fing um 8:20 an und ich fing damit an meinen Praktikums Berricht zu schreiben und zu verbessern danach überlegte ich mir ein konzept und ein Aussehen für das Big Data Game für die Kinder Bei Hack4Kids di zwischen 8 und 10 jahre alt sin damit sie etwas Lernen auch wenn spass im vordergrund stehen soll muss man aber einen Kleinen Compromiss zwischen lernen und spass sein.
+Mein Arbeitstag fing um 8:20 an und ich fing damit an meinen Praktikums Berricht zu schreiben und zu verbessern danach überlegte ich mir ein konzept und ein Aussehen für das Big Data Game für die Kinder Bei Hack4Kids die zwischen 8 und 10 jahre alt sin damit sie etwas Lernen auch wenn spass im vordergrund stehen soll muss man aber einen Kleinen Compromiss zwischen lernen und spass sein.
 
