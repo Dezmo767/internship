@@ -188,4 +188,10 @@ Mein Arbeitstag fing um 8:20 an und ich fing damit an meinen Praktikums Berricht
 Dann hatte ich von 12:55 bis 13:15 Mittagspause und Arbeitete danach an den Memes weiter.
 Um 16:10 hatte ich dann feierabend und keine überstunden mehr.
 
+## 16 märz 2018
+
+### actions
+```Freitag```
+Mein Arbeitstag fing um 8:00 uhr an und ich began damit Update für den Ubuntu Rechner mit der Version 16.04 LTS herunterzuladen weil jeden Tag neue Pakete herauskommen und aktuellisiert werden müssen, zudem überleste ich meinen Bericht und verbesserte verschiedene Fehler danach Schrieb ich am bericht von Donnerstag den letzten Satz fertig den ich Donnerstag vergessen hatte dann ging es weiter mit Memes die ich Joanna per Mail zusendete.
+
 
