@@ -194,7 +194,7 @@ Um 16:10 hatte ich dann feierabend und keine überstunden mehr.
 ```Freitag```
 Mein Arbeitstag fing um 8:00 uhr an und ich began damit Update für den Ubuntu Rechner mit der Version 16.04 LTS herunterzuladen weil jeden Tag neue Pakete herauskommen und aktuellisiert werden müssen, zudem überleste ich meinen Bericht und verbesserte verschiedene Fehler danach Schrieb ich am bericht von Donnerstag den letzten Satz fertig den ich Donnerstag vergessen hatte dann ging es weiter mit Memes die ich Joanna per Mail zusendete.Danach inspierierte ich mich an ein paar youtube vidoes zum Thema scratch spiele und entwarf ein eignes kleines Jump an Run game.
 Dann von 12:40 bis 13:05 hatte ich Mittagspause, danach gin es direkt weiter mit dem Jump and Run Scratch game.
-Danach bekam ich von Matthieu eine Schaltung die wie ein 741 IC funktioniert und danach half ich Emilie beim Runtertragen der Sachen für Hack4Kids, dann endete meine Schicht um 16:30. 
+Danach bekam ich von Matthieu eine Schaltung die wie ein 741 (Op-Amp) IC funktioniert und danach half ich Emilie beim Runtertragen der Sachen für Hack4Kids, dann endete meine Schicht um 16:30. 
 
 # Woche 5
 
