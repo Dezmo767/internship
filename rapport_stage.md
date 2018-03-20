@@ -212,4 +212,4 @@ Dann hatte ich um 16:00 Feierabend.
 
 ### actions
 ```Dienstag```
-Am Dienstag fing mein Tag um 7:50 an und ich fing damit an meinen Praktikums bericht zu überarbeiten.
+Am Dienstag fing mein Tag um 7:50 an und ich fing damit an meinen Praktikums bericht zu überarbeiten und Emilie sendete mir 2 Weitere Bilder die ich zensieren und Bearbeiten konnte.
