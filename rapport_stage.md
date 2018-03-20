@@ -213,4 +213,5 @@ Dann hatte ich um 16:00 Feierabend.
 ### actions
 ```Dienstag```
 Am Dienstag fing mein Tag um 7:50 an und ich fing damit an meinen Praktikums bericht zu überarbeiten und Emilie sendete mir 2 Weitere Bilder die ich zensieren und Bearbeiten konnte.
-Dann Arbeitete ich mit Basmah weiter an dem Big Data Game bis 12:00 danach hatte ich Mittags Pause bis 12:35. 
+Dann Arbeitete ich mit Basmah weiter an dem Big Data Game bis 12:00 danach hatte ich Mittags Pause bis 12:35.
+Dann arbeitete ich weiter am Big Data Game die URL's und die YT URL's in die Datei ```Big Data Game``` und meine Schicht endete dann um 16:00.
