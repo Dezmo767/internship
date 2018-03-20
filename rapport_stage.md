@@ -206,3 +206,10 @@ Mein Arbeitstag fing ganz gut um 7:50 an und ich half Emilie sofort wieder die S
 Emilie hatte mich gefragt op ich mich mit Gimp auskenne um die Bilder vom Hack4Kids bearbeiten zu können z.b um Gesichter zu Verpixeln und um die Grösse der Bilder zu verändern der Banner hatte eine Grösse von 1024x256 und die anderen eine von 1024x? die höhe konnte Gimp bei den anderen 5 Bilder selber bestimmen.
 Dann kam Bashma und wir arbeiteten weiter am Big Data Game
 Dann hatte ich Mittagspause von 11:55 bis 12:25, nach der Mittagspause arbeitete ich weiter am Big Data Game.
+Dann hatte ich um 16:00 Feierabend.
+
+## 20 märz 2018
+
+### actions
+```Dienstag```
+Am Dienstag fing mein Tag um 7:50 an und ich fing damit an meinen Praktikums bericht zu überarbeiten.
