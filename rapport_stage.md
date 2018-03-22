@@ -165,6 +165,10 @@ Dann ging es weiter mit dem Scratch game und danach suchten wir die Drohnen und 
 Danach verabschiedete sich Luca denn er hatte hier mit sein Praktikum beendet.
 Um 16:30 hatte ich dann Feierabend.
 
+# Woche 3 Resumé
+
+In dieser Aussergewöhnlichen Woche kam ein neuer Praktikant Names Luca ich lernte dann auch das Lock picking mit ihm und erklärte ihm alles was er Wissen muss wir arbeiteten zusammen in Scratch spiele und ich liess manchmal in dem SE Buch was ich von Matthieu bekam zudem reparierte ich die Dronen die Kaputt gegangen waren.Dann habe ich mir das wissen der TSA Locks zu eigen gebracht mit dem 3D Drucker einen Schlüssel zu printen und mich über 3D Druck Techniken wie 3D Drucker und 3D Stifte vertraut zu machen.
+
 # Woche 4
 
 ## 12 märz 2018
@@ -211,6 +215,11 @@ Um 16:10 hatte ich dann feierabend und keine überstunden mehr.
 Mein Arbeitstag fing um 8:00 uhr an und ich began damit Update für den Ubuntu Rechner mit der Version 16.04 LTS herunterzuladen weil jeden Tag neue Pakete herauskommen und aktuellisiert werden müssen, zudem überleste ich meinen Bericht und verbesserte verschiedene Fehler danach Schrieb ich am bericht von Donnerstag den letzten Satz fertig den ich Donnerstag vergessen hatte dann ging es weiter mit Memes die ich Joanna per Mail zusendete.Danach inspierierte ich mich an ein paar youtube vidoes zum Thema scratch spiele und entwarf ein eignes kleines Jump an Run game.
 Dann von 12:40 bis 13:05 hatte ich Mittagspause, danach gin es direkt weiter mit dem Jump and Run Scratch game.
 Danach bekam ich von Matthieu eine Schaltung die wie ein 741 (Op-Amp) IC funktioniert und danach half ich Emilie beim Runtertragen der Sachen für Hack4Kids, dann endete meine Schicht um 16:30. 
+
+# Woche 4 Resumé
+
+In der vierten Woche hatte ich ganz viel mit meinem Neuen Laptop zu tun den ich für die Arbeit bei SMILE zur verfügung gestellt bekommen habe denn ich musste ihn konfiegurieren und alles einrichten was ich brauche um mit dem Laptop gut Arbeiten zu Können.
+Dann informierte ich mich über Big Data und die Algorithmen die die berechnungen durch führen um alle daten der Person zusammen zu führen danach ging es Weiter mit der Geschichte der Memes und dem Big Data Game.
 
 # Woche 5
 
