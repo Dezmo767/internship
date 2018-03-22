@@ -186,7 +186,7 @@ Um 17:10 hatte ich dann feierabend.
 
 ### actions
 ```Dienstag```
-Mein Arbeitstag hat heute um 7:40 angefangen und ich startete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.Danach habe ich meinen Praktikums Bericht weiter geschrieben und eine Korrektur an dem Bericht von 12 März 2018 vorgenommen.
+Mein Arbeitstag hat heute um 7:40 angefangen und ich start javascriptete damit meinen neuen Computer den ich von ihnen zu verfügung gestellt bekommen habe zu configurieren.Danach habe ich meinen Praktikums Bericht weiter geschrieben und eine Korrektur an dem Bericht von 12 März 2018 vorgenommen.
 Um 12:00 - 12:40 hatte ich Mittagspause.
 Danach bekam ich Arbeit mit dem Thema Big Data und Profiling, damit ich den Kindern bei Hack4Kids zwischen 8 und 10 jahren Beibringen kann was Big Data und Profiling ist.
 Um 16:10 hatte ich dann Feierabend.
@@ -254,3 +254,4 @@ Meine Arbeitsschicht endete um 15:50.
 Am Donnerstag fing meine schicht um 7:45 an und ich fing damit an meinen Praktikums Bericht zu schreiben von 21/03/2018 weil ich gestern keine zeit dafür gefunden hatte, zudem fragte ich Basmah dass sie mir das Ganze projekt von Big Data per mail zusenden könnte.Sie könnte mir leider die Dateien nicht schicken, was ich aber gemacht habe ich habe Emilie geholfen bei CryptoApero.
 Dann hatte ich von 11:40 bis 12:10 Mittagspause.
 Danach habe ich weiter an den Recherchen vom Cash out von Bitcoin oder andere Crypto währung gearbeitete.
+Dann habe ich noch an meinen Python Fähigkeiten gearbeitet.
