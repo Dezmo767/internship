@@ -218,6 +218,12 @@ Dann arbeitete ich weiter am Big Data Game die URL's und die YT URL's in die Dat
 
 ## 21 märz 2018
 
+### action
+```Mittwoch```e stellete ich Fest dass Heute der 21 war das bedeutete dass mein Schule Tuteur zu besuch TCP_DUMP Projekt auch noch licht effekte hinzu zufügen was aber leider nicht geglückt war wegem einem Java Fehler in einer anderen Datei und auf dem Betriebssystem.
+Meine Arbeitsschicht endete um 15:50.
+
+## 22 märz 2018
+
 ### actions
-```Mittwoch```
-Meine Schicht startete um 7:35 und ich fing damit an mein Praktikums Bericht zu verbessern und zu übrearbeiten danach stellete ich Fest dass Heute der 21 war das bedeutete dass mein Schule Tuteur zu besuch kam um mein Praktikum zu besichtigen,
+```Donnerstag```
+Am Donnerstag fing meine schicht um 7:45 an und ich fing damit an meinen Praktikums Bericht zu schreiben von 21/03/2018 weil ich gestern keine zeit dafür gefunden hatte, zudem fragte ich Basmah dass sie mir das Ganze projekt von Big Data per mail zusenden könnte.
