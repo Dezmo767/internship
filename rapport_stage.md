@@ -46,6 +46,15 @@ Danach schrieb ich an 2 weiteren Scrips dem pingpong.py und dem Game.py das Game
 Zudem habe ich mein Praktikums Bericht von Donnerstag und Freitag geschrieben.
 Um 15:30 hatte ich dann feierabend.
 
+# Woche 1 Resumé
+ 
+Die erste Arbeitswoche war sehr spannend denn ich habe viele Neue Projekte Kennengelernt wie z.b Tcp Dump dass den Internet traffic in Musik umwandelt zudem habe ich eine Neue Programmiersprache gelernt Python ich beherrsche sie noch nicht ganz.
+Zu dem Entwickelte ich spiele mit Python.
+Danach schrieb ich in Markdown das Ganze TCP Dump Projekt auf damit man Weiss wie das Projekt funktioniert und auch den Code überarbeiten kann.
+
+
+
+
 # Woche 2
 
 ## 26 feb 2018
@@ -101,6 +110,13 @@ Um 12:05 - 12:30 hatte ich Mittagspause.
 Dannach informierte ich mich über Social Engineering Technik das Phising genannt wird.
 Eine Phising Methode wird von SE (Ein type der Social Engineering ausführt) ausgeführt ist dass man einen oder mehrere USB-Sticks mit Keyloggern oder Trojaner bestick der dann dem Angreiffer dem SE informationen gib wie z.b amazon Password oder Kredit Karten informationen was ziemlich erschreckend ist weil sie eine Erfolgsrate von bis zu 60% haben, anrufe von SE sind sogar noch erfolgreicher mit 70% bei ungeschulten Menschen.
 Meine Schicht endete dann um 16:05
+
+# Woche 2 Resumé
+
+Diese Woche lernte ich noch mehr über das TCP Dump Projekt und Python spiele. Zudem Informierte ich mich über Netzwerk Protokolle wie TCP und UDP weil ich mit hilfe eines Raspberry Pi 1 einen Webserver aufsetzten musste und ich das wissen benötigte.
+SE, also Social Engineering war eines meiner Hauptthemen diese woche was ich da heraus gefunden habe ich fazienierend und erschreckend zu gleich denn viele Menschen fallen auf solche Techniken rein was die Sicherheit massiv verschlechtert.
+
+
 
 # Woche 3
 
