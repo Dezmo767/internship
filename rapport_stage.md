@@ -251,4 +251,6 @@ Meine Arbeitsschicht endete um 15:50.
 
 ### actions
 ```Donnerstag```
-Am Donnerstag fing meine schicht um 7:45 an und ich fing damit an meinen Praktikums Bericht zu schreiben von 21/03/2018 weil ich gestern keine zeit dafür gefunden hatte, zudem fragte ich Basmah dass sie mir das Ganze projekt von Big Data per mail zusenden könnte.
+Am Donnerstag fing meine schicht um 7:45 an und ich fing damit an meinen Praktikums Bericht zu schreiben von 21/03/2018 weil ich gestern keine zeit dafür gefunden hatte, zudem fragte ich Basmah dass sie mir das Ganze projekt von Big Data per mail zusenden könnte.Sie könnte mir leider die Dateien nicht schicken, was ich aber gemacht habe ich habe Emilie geholfen bei CryptoApero.
+Dann hatte ich von 11:40 bis 12:10 Mittagspause.
+Danach habe ich weiter an den Recherchen vom Cash out von Bitcoin oder andere Crypto währung gearbeitete.
