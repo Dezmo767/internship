@@ -255,3 +255,10 @@ Am Donnerstag fing meine schicht um 7:45 an und ich fing damit an meinen Praktik
 Dann hatte ich von 11:40 bis 12:10 Mittagspause.
 Danach habe ich weiter an den Recherchen vom Cash out von Bitcoin oder andere Crypto währung gearbeitete.
 Dann habe ich noch an meinen Python Fähigkeiten gearbeitet. Indem ich ein kleines Neuronales Netz aufgebaut habe.
+Ich ging dann gegen 15:45.
+
+## 23 märz 2018
+
+### actions
+```Freitag```
+ich fing um 7:45 an und fing damit an meine E-Mails zu 
