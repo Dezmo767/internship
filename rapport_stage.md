@@ -244,8 +244,8 @@ Dann arbeitete ich weiter am Big Data Game die URL's und die YT URL's in die Dat
 ## 21 märz 2018
 
 ### action
-```Mittwoch```e stellete ich Fest dass Heute der 21 war das bedeutete dass mein Schule Tuteur zu besuch TCP_DUMP Projekt auch noch licht effekte hinzu zufügen was aber leider nicht geglückt war wegem einem Java Fehler in einer anderen Datei und auf dem Betriebssystem.
-Meine Arbeitsschicht endete um 15:50.
+```Mittwoch```Meine Schicht began um 7:50 und ich stellete ich Fest dass Heute der 21 war das bedeutete dass mein Schul Tuteur zur besuch kommt, danach wollte Matthieu dass ich beim  TCP_DUMP Projekt auch noch licht effekte hinzu zufügen was aber leider nicht geglückt war wegem einem Java Fehler in einer anderen Datei und auf dem Betriebssystem.
+Meine Arbeitsschicht endete dann um 15:50.
 
 ## 22 märz 2018
 
@@ -261,4 +261,9 @@ Ich ging dann gegen 15:45.
 
 ### actions
 ```Freitag```
-ich fing um 7:45 an und fing damit an meine E-Mails zu 
+Ich fing um 7:45 an und fing damit an meine E-Mails zu lesen denn ich hatte Basmah gefragt op sie mir die fertigen Aufgaben zusenden kann was allerdings nicht gelungen war denn sie sendetet mir die unfertigen zu.
+Dann kam Matthieu und ich musste weiter an dem TCP Dump script arbeiten das mir sehr viel spass gemacht hat denn ich musste Visuelle effekte hinzufügen.
+Was dieses mal funktioniert hat mit dem Programm VSXU Visualizer hinbekommen habe, ihr könnt es unter ```hihi``` anschauen.
+Danach hatte ich um 15:55 feierabend.
+
+# Woche 5 Resumé
