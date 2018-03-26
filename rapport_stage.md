@@ -263,7 +263,18 @@ Ich ging dann gegen 15:45.
 ```Freitag```
 Ich fing um 7:45 an und fing damit an meine E-Mails zu lesen denn ich hatte Basmah gefragt op sie mir die fertigen Aufgaben zusenden kann was allerdings nicht gelungen war denn sie sendetet mir die unfertigen zu.
 Dann kam Matthieu und ich musste weiter an dem TCP Dump script arbeiten das mir sehr viel spass gemacht hat denn ich musste Visuelle effekte hinzufügen.
-Was dieses mal funktioniert hat mit dem Programm VSXU Visualizer hinbekommen habe, ihr könnt es unter ```hihi``` anschauen.
+Was dieses mal funktioniert hat mit dem Programm VSXU Visualizer hinbekommen habe, ihr könnt es unter ```https://github.com/Dezmo767/internship/tree/master/Music/Music_Video``` anschauen.
 Danach hatte ich um 15:55 feierabend.
 
 # Woche 5 Resumé
+
+In der Fünften woche habe ich mich sehr viel mit dem TCP_Dump projekt und dem Big Data game beschäftigt.
+Es standen die Visuellen Effekte mit dem TCP_Dump Projekt an die ich dank dem VSUX Programm hervorragend hinbekommen habe.
+
+# Woche 6
+
+## 26 märz 2018
+
+### actions
+```Montag```
+Ich fing um 7:45 an und began damit meinen Praktikums bericht zu vervollständigen vom Fraitag dem 23/03/2018 und dem Resumé von der Woche 5.Danach schaute ich nach meinen E-mails denn ich hatte Matthieu, Sonntag eine E-Mail zugesendet über das Programm VSXU denn ich konnte da meine eignen Effekte erstellen leider stürzt das Programm auch bei mir zu Hause hab obwohl ich eine Nvidia Grafikkarte GTX 970 habe und das Programm von 2005 ist.
