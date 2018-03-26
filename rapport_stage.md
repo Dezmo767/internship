@@ -277,4 +277,4 @@ Es standen die Visuellen Effekte mit dem TCP_Dump Projekt an die ich dank dem VS
 
 ### actions
 ```Montag```
-Ich fing um 7:45 an und began damit meinen Praktikums bericht zu vervollständigen vom Fraitag dem 23/03/2018 und dem Resumé von der Woche 5.Danach schaute ich nach meinen E-mails denn ich hatte Matthieu, Sonntag eine E-Mail zugesendet über das Programm VSXU denn ich konnte da meine eignen Effekte erstellen leider stürzt das Programm auch bei mir zu Hause hab obwohl ich eine Nvidia Grafikkarte GTX 970 habe und das Programm von 2005 ist.
+Ich fing um 7:45 an und began damit meinen Praktikums bericht zu vervollständigen vom Fraitag dem 23/03/2018 und dem Resumé von der Woche 5.Danach schaute ich nach meinen E-mails denn ich hatte Matthieu, Sonntag eine E-Mail zugesendet über das Programm VSXU denn ich konnte da meine eignen Effekte erstellen leider stürzt das Programm auch bei mir zu Hause hab obwohl ich eine Nvidia Grafikkarte GTX 970 habe und das Programm von 2005 ist.Danach schaute ich mir das Programm VSXU genauer an.
