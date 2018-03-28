@@ -278,3 +278,17 @@ Es standen die Visuellen Effekte mit dem TCP_Dump Projekt an die ich dank dem VS
 ### actions
 ```Montag```
 Ich fing um 7:45 an und began damit meinen Praktikums bericht zu vervollständigen vom Fraitag dem 23/03/2018 und dem Resumé von der Woche 5.Danach schaute ich nach meinen E-mails denn ich hatte Matthieu, Sonntag eine E-Mail zugesendet über das Programm VSXU denn ich konnte da meine eignen Effekte erstellen leider stürzt das Programm auch bei mir zu Hause hab obwohl ich eine Nvidia Grafikkarte GTX 970 habe und das Programm von 2005 ist.Danach schaute ich mir das Programm VSXU genauer an.
+Um 12:00 hatte ich Mittagspause bis 12:50, aber da ich krank war ging ich nach Hause und dann zum Arzt.
+
+## 27 märz 2018
+
+### actions
+```Dienstag```
+Am Dienstag war ich krank also blieb ich zu Hause.
+
+
+## 28 märz 2018
+
+### actions
+```Mittwoch```
+Mein Arbeitstag fing um 7:35 an da ich noch nicht ganz fit war fing ich langsam damit an mein Praktikums Bericht zu überlesen und zu schreiben vom 26 - 27.
