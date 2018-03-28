@@ -1,5 +1,5 @@
 # Praktikums Bericht
-# Woche 1 aaa
+# Woche 1
 
 ## 19 feb 2018
 
