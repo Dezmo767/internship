@@ -128,7 +128,7 @@ Meine Schicht endete dann um 16:35
 
 ## 6 märz 2018
 
-### actions```
+### actions
 ```Dienstag```
 Mein Arbeistag startete wie gewohnt um 7:35 und ich began damit meinen Praktikumsbericht zu überlesen und zu bearbeiten, danach Frage Rita mich op ich ihr Helfen könnte im Meating Raum ein bisschen um zu Räumen was ich dann auch tat.
 Als dann Luca der neue Praktikand ankam erklärte uns Fabian die Server von SMILE und auch den NAS (Netzwork Attached Storage) Server von 2 x 48 TB wo schon 39 TB nur für interne zwecke verwendet wurden dann kommen noch die externen dazu wo er mir leider keine genaue auszunft geben kann denn er ist nicht dafür zuständig.
