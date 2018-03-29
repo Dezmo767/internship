@@ -179,7 +179,7 @@ Um 12:00 hatte ich, dann Mittags pause bis 12:50.
 Danach probierte ich in einer VM MacOs 10.12 zu installieren denn wir haben ein Kickstarter produkt das nur auf MacOs oder App Store verfügbar ist HACKABALL heisst das programm und das Prdukt.
 Um 17:10 hatte ich dann feierabend.
 
-## 13 märz 2018```
+## 13 märz 2018
 
 ### actions
 ```Dienstag```
@@ -297,7 +297,10 @@ Da Matthieu und ich ein paar Probleme hatten mit dem PGP Key's hielt ich mich bi
 
 ### actions
 ```Donnerstag```
-Am Donnerstag fing ich um 7:35 mit meiner Arbeit an ich beschäftige mich mit der Aufgabe meinen Praktikums Bericht zu schreiben und ein Präsentation Blatt von der Firma SMILE zu erstellen, da mir Herr De Kroon Guy mir die Aufgabe aufgetragen hatte.
+Am Donnerstag fing ich um 7:35 mit meiner Arbeit an ich beschäftige mich mit der Aufgabe meinen Praktikumsbericht zu schreiben und ein Präsentation Blatt von der Firma SMILE zu erstellen, da mir Herr De Kroon Guy mir die Aufgabe aufgetragen hatte. Danach bewertete Matthieu zusammen mit mir den Rapport de Stage und füllte ansonsten noch den Carnet de Stage aus.
+Dann hatte ich von 12:00 bis 12:30 Mittagspause.
+Als die Mittagspause dann zu Ende ging, arbeitete ich an meinen Praktikumsbericht weiter und verbesserte ihn mit der Seite ```https://rechtschreibpruefung24.de/```.
+Um 16:00 hatte ich dann Feierabend.
 
 ## 30 märz 2018
 
