@@ -3,6 +3,8 @@ ___
 Hier mit präsentiere ich die Firma SMILE auch genannt Security made in Lu ( Security made in Luxemburg ).
 SMILE ist eine Firma die sich auf sicherheits aspekte spezialisiert hat egal op es sich um Sicherheitslücken oder Virusen handelt
 oder auch um den Menschen selber mit sozial Engineering.
+</br>
+</br>
 Dabei umfasst SMILE die Sectionen C3, Cases und Circl.
 Alle die Drei Sectionen erfüllen eine Bestimmt aufgabe C3 oder auch noch genannt Cyber Competenz Center kümmert sich um das 
 aufklären von Kindern, Jugendlichen und Erwachsenen sowie Senioren wobei Erwachsene und Senioren nicht so häufig wie Kinder 
@@ -19,3 +21,5 @@ risiko analysen.
 Die Webseite ist ```https://www.cases.lu/```
 Dann kommt noch die Letzte Section Circl auch noch Computer Incident Response Center Luxembourg gennant sie kümmern sich um die kleine bis Grosse Privat Firmen, wenn sie ein problem mit Crackern oder Malware haben zudem leiten sie die Trainings und C3 organisiert sie.
 Zudem geben sie auf Ihrer Webseite gute Tipps auf die Aspekte der Sicherheit ```https://circl.lu/```.
+</br>
+</br>
