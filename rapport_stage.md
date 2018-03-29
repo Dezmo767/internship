@@ -306,7 +306,7 @@ Um 16:00 hatte ich dann Feierabend.
 
 ### actions
 ```Freitag```
-Heute ist mein letzter Arbeitstag und er fing um _____._ an.
+Heute ist mein letzter Arbeitstag und er fing um 7:50 an.
 Da heute ein HSBC Feiertag ist und das Gebäude um 13:00 schließt muss ich schon um 12:00 Feierabend machen, was ich sehr schade finde, da mir das Praktikum sehr gefallen hat und ich die Arbeitsverhältnisse toll fand, zudem war es sehr lehrreich.
 
 # Woche 6 Resumé
