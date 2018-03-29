@@ -308,3 +308,5 @@ Am Donnerstag fing ich um 7:35 mit meiner Arbeit an ich beschäftige mich mit de
 ```Freitag```
 Heute ist mein Letzter Arbeitstag und er fing um _____._ an.
 Da heute ein HSBC Feiertag ist und das Gebäude um 13:00 schliesst muss ich schon um 12:00 feierabend machen, was ich sehr schade finde da mir das Praktikum sehr gefallen hat und ich die Arbeitsverhältnisse toll fand, zudem war es sehr lehrreich.
+
+# Woche 6 Resumé
