@@ -292,3 +292,19 @@ Am Dienstag war ich krank also blieb ich zu Hause.
 ### actions
 ```Mittwoch```
 Mein Arbeitstag fing um 7:35 an da ich noch nicht ganz fit war fing ich langsam damit an mein Praktikums Bericht zu überlesen und zu schreiben vom 26 - 27.
+Als Matthieu dann kam arbeitete ich mit verschlüsselungen auf basis von SSH und PGP Keys um e-mails zu verschlüsseln.
+Um 12:00 - 12:30 hatte ich dann Mittagspause.
+Da Matthieu und ich ein paar probleme hatten mit dem PGP Key's hielt ich mich bis 16:00 damit auf was mir am ende durch Fabian geglückt ist da er meinen Generatete Privat Key gefunden hatte dann hatte ich feierabend.
+
+## 29 märz 2018
+
+### actions
+```Donnerstag```
+Am Donnerstag fing ich um 7:35 mit meiner Arbeit an ich beschäftige mich mit der Aufgabe meinen Praktikums Bericht zu schreiben und ein Präsentation Blatte von der Firma SMILE zu erstellen, da mir Herr De Kroon Guy mir die aufgabe aufgetragen hatte. 
+
+## 30 märz 2018
+
+### actions
+```Freitag```
+Heute ist mein Letzter Arbeitstag und er fing um _____._ an.
+Da heute ein HSBC Feiertag ist und das Gebäude um 13:00 schliesst muss ich schon um 12:00 feierabend machen, was ich sehr schade finde da mir das Praktikum sehr gefallen hat und ich die Arbeitsverhältnisse toll fand, zudem war es sehr lehrreich.
