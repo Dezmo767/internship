@@ -306,7 +306,9 @@ Um 16:00 hatte ich dann Feierabend.
 
 ### actions
 ```Freitag```
-Heute ist mein letzter Arbeitstag und er fing um 7:50 an.
-Da heute ein HSBC Feiertag ist und das Gebäude um 13:00 schließt muss ich schon um 12:00 Feierabend machen, was ich sehr schade finde, da mir das Praktikum sehr gefallen hat und ich die Arbeitsverhältnisse toll fand, zudem war es sehr lehrreich.
+Heute ist mein letzter Arbeitstag und er fing um 8:05 an.
+Da heute ein HSBC Feiertag ist wurde meine Schlüssel Karte Deaktiviert was sehr lästig ist denn ich habe keinen zutritt mehr in oder sogar nach draussen und das Gebäude schließt um 13:00 deshalb muss ich schon um 12:00 Feierabend machen, was ich sehr schade finde, da mir das Praktikum sehr gefallen hat und ich die Arbeitsverhältnisse toll fand, zudem war es sehr lehrreich.
 
 # Woche 6 Resumé
+Die sechste Woche war sehr aufregend, denn da habe ich mich mit einer meiner Lieblings Themen beschäftigt Verschlüsselungen mit SSH und PGP, zudem habe ich mich mit dem Mail Programm Thunderbird auseinandergesetzt um den PGP Key zu bekommen und zu konfigurieren.
+Ich habe zudem an meinem Praktikumsbericht gearbeitet.
