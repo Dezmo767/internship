@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CLISS2</title>
+		<meta charset="utf-8">
+		<script>
+			function eval(){
+			  var mark, image, comment;
+
+
+			  mark = parseInt(document.getElementById("mark").value);
+
+			  if (mark > 60 ){
+
+				  image = "fragend.png";
+				  comment = "Ungültige Note";
+
+			  }else if (mark === 60){
+
+			  	image = "schreiend.png";
+          		comment = "Perfekt";
+
+			  }else if (mark >= 50){
+
+				  image = "sabbernd.png";
+				  comment = "Sehr gute Note";
+
+
+			  }else if (mark >= 30){
+
+				  image = "freundlich.png";
+				  comment = "Zufriedenstellende Note";
+
+
+			  }else if (mark >= 10) {
+
+				  image = "weinend.png";
+				  comment = "Ungenügende Note";
+
+
+			  }else if (mark >= 1){
+				  image = "schockiert.png";
+				  comment = "Katastrophale Note";
+
+			  }
+
+			  document.getElementById("output").innerHTML="<hr><img src= 'images/"+ image +"'><p>"+comment+"</p>";
+			}
+		</script>
+</head>
+	<body>
+		<label for="mark">Note eingeben:</label>
+		<input id="mark" type="text">
+		<br>
+		<button onclick="eval()"> Bewerten </button>
+
+		<div id="output"></div>
+	</body>
+</html>
