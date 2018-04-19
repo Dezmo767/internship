@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aufgabe5</title>
+    <script>
+        function show() {
+            var input = parseFloat(document.getElementById("water").value);
+            var output;
+
+            if(input <= 0) {
+                output = document.getElementById("output").innerHTML = "<hr> Bei der angegebenen Temperatur ist das Wasser eisförmig"
+            }else if(input >= 100){
+                output = document.getElementById("output").innerHTML = "<hr> Bei der angegebenen Temperatur ist das Wasser dampfförmig"
+            }else if (input >=1) {
+                output = document.getElementById("output").innerHTML = "<hr> Bei der angegebenen Temperatur ist das Wasser flüssig"
+            }
+        }
+
+
+
+
+
+
+    </script>
+</head>
+<body>
+    <label for="water">Wassertemperatur eingeben:</label>
+    <input id="water" type="text"><br>
+    <button onclick="show()">Aggregatszustand anzeigen</button>
+    <p id="output"></p>
+</body>
+</html>

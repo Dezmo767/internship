@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>6</title>
+    <script>
+        function show(){
+
+            var width = parseFloat(document.getElementById("width").value);
+            var lenght = parseFloat(document.getElementById("lenght").value);
+            var output = "";
+
+            if(width === 0 && lenght === 0){
+                output = "<hr> Es handelt sich bei dem Rechteck um einen Punkt.";
+            }else if (width === 0 || lenght === 0){
+                output = "<hr> Es handelt sich bei dem Rechteck um einen Strich.";
+            }else if (width === lenght || lenght === width){
+                output = "<hr> Es handelt sich bei dem Rechteck um ein Quadrat.";
+            }else if (width !== lenght || lenght !== width){
+                output = "<hr> Es handelt sich bei dem Rechteck um ein tatsächliches Rechteck.";
+            }
+
+
+            document.getElementById("output").innerHTML = output;
+        }
+
+
+
+
+    </script>
+</head>
+<body>
+<label for="width">Breite:</label>
+<input id="width" type="text"><br>
+<label for="lenght">Länge:</label>
+<input id="lenght" type="text"><br>
+<button onclick="show()">bestimme Resultat</button>
+<p id="output"></p>
+</body>
+</html>
