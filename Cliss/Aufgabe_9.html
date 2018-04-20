@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>CLISS2</title>
+		<script type="text/javascript">
+
+			function throwTheDice(){
+				var number, randomNumber, min, max;
+				var output = "";
+
+				number = parseInt(document.getElementById("number").value);
+
+				min = 1;
+				max = 6;
+
+				for(var i = 1; i <= number; i++) {
+					randomNumber = Math.floor(Math.random() * (max-min) )+min;
+					output = output  + "<td><img src= './images/wuerfel" + randomNumber +
+						".jpg'>" +
+						"<br></td>";
+				}
+
+
+				document.getElementById("dice").innerHTML = "<table border = 1><tr>" +output+
+					"</tr></table>";
+			}
+		</script>
+	</head>
+	<body>
+		<h1>
+			Würfeln
+		</h1>
+		<input type="number" id="number" placeholder="Anzahl an Würfen">
+		<button onclick="throwTheDice()">Würfeln</button>
+		<div id="dice">
+
+		</div>
+	</body>
+</html>

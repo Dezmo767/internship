@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>CLISS2</title>
+		<script type="text/javascript">
+
+			function sit(){
+				var number1, randomNumber, min, max, number2;
+				var output = "";
+
+				number1 = parseInt(document.getElementById("number1").value);
+				number2 = parseInt(document.getElementById("number2").value);
+
+				min = 1;
+				max = 6;
+
+				for(var i = 1; i <= number1; i++) {
+					output = output  + "<tr>";
+
+					for(var y = 1; y <= number2; y++){
+						randomNumber = Math.floor(Math.random() * (max - min + 1 ) )+ min;
+						output = output  + "<td>O" +
+							"</td>";
+					}
+					output += "</tr>"
+				}
+
+
+
+				document.getElementById("dice").innerHTML = "<table border = 1>" +output+
+					"</table>";
+			}
+		</script>
+	</head>
+	<body>
+		<h1>
+			Sitzplan
+		</h1>
+		<input type="number" id="number1" placeholder="Anzahl an Reihen">
+		<input type="number" id="number2" placeholder="Anzahl an Würfen">
+		<button onclick="sit()">Sitzplan anzeigen</button>
+		<div id="dice">
+
+		</div>
+	</body>
+</html>
