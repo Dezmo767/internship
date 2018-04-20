@@ -5,30 +5,40 @@
 		<title>CLISS2</title>
 		<script type="text/javascript">
 
-			function sit(){
-				var number1, randomNumber, min, max, number2;
+			function seat(){
+				var number1, randomNumber, min, max, number2, seat;
 				var output = "";
 
 				number1 = parseInt(document.getElementById("number1").value);
 				number2 = parseInt(document.getElementById("number2").value);
+				seat = number2 * number1;
 
 				min = 1;
-				max = 6;
+				max = seat;
+
+				randomNumber = Math.floor(Math.random() * (max - min + 1 ) )+ min;
+
 
 				for(var i = 1; i <= number1; i++) {
 					output = output  + "<tr>";
 
 					for(var y = 1; y <= number2; y++){
-						randomNumber = Math.floor(Math.random() * (max - min + 1 ) )+ min;
-						output = output  + "<td>O" +
+						if(randomNumber === y){
+						output = output  + "<td>X" +
 							"</td>";
+					}else {
+
+							output = output  + "<td>O" +
+								"</td>";
+
+						}
 					}
 					output += "</tr>"
 				}
 
 
 
-				document.getElementById("dice").innerHTML = "<table border = 1>" +output+
+				document.getElementById("seat").innerHTML = "<table border = 1>" +output+
 					"</table>";
 			}
 		</script>
@@ -38,9 +48,9 @@
 			Sitzplan
 		</h1>
 		<input type="number" id="number1" placeholder="Anzahl an Reihen">
-		<input type="number" id="number2" placeholder="Anzahl an Würfen">
-		<button onclick="sit()">Sitzplan anzeigen</button>
-		<div id="dice">
+		<input type="number" id="number2" placeholder="Anzahl an Sitzen">
+		<button onclick="seat()">Sitzplan anzeigen</button>
+		<div id="seat">
 
 		</div>
 	</body>
