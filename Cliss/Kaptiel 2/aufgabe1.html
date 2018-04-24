@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Aufgabe 1</title>
+    <script>
+      function highlight(){
+
+	      document.getElementById("paragraph").style.color = "red";
+	      document.getElementById("paragraph").style.fontStyle = "bold";
+	      document.getElementById("paragraph").style.fontStyle = "italic";
+        
+      }
+
+      function noHighlight(){
+
+	      document.getElementById("paragraph").style.color = "black";
+	      document.getElementById("paragraph").style.fontStyle = "normal";
+
+      }
+
+      function fontSize(){
+      	var size = parseInt(document.getElementById("fontSize").value);
+      	document.getElementById("paragraph").style.fontSize = size + "px"
+
+      }
+
+      function leftAlign(){
+
+	      document.getElementById("paragraph").style.textAlign = "left";
+
+      }
+
+      function rightAlign(){
+
+      	document.getElementById("paragraph").style.textAlign = "right";
+
+      }
+
+      function changeFrame(){
+
+	      var frame = document.getElementById("frame").value;
+
+	      if(frame === "Ja" || frame === "ja" ) {
+
+		      document.getElementById("paragraph").style.border = "solid 3px green"
+
+	      }else if (frame === "Nein" || frame === "nein"){
+
+		      document.getElementById("paragraph").style.border = "none"
+
+	      }
+
+      }
+    </script>
+  </head>
+  <body>
+    <p><input id="fontSize" placeholder="Schriftgröße eingeben">
+    <button onclick="fontSize()">Schriftgröße ändern</button></p>
+
+    <p><button onclick="leftAlign()">Linksbündig</button><button onclick="rightAlign()">Rechtsbündig</button></p>
+    <p id="paragraph" onmouseover="highlight()" onmouseout="noHighlight()">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut pharetra justo. Nullam vel condimentum elit. Mauris ut sollicitudin justo. Cras porttitor nulla ut malesuada porttitor. Nam mollis massa eget venenatis rhoncus. Aliquam laoreet lobortis sem, vel condimentum dui. Sed eleifend orci ac dui pellentesque aliquet. Ut sagittis blandit quam vel cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin sed lectus vel risus aliquam facilisis. Vestibulum in sagittis felis, ut dapibus augue.
+    </p>
+
+    <p><label for="frame">Rahmen anzeigen?</label><input id="frame" placeholder="Ja oder Nein eingeben">
+    <button onclick="changeFrame()">Rahmen ändern</button></p>
+
+  </body>
+</html>

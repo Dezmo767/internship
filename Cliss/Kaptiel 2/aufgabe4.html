@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>3</title>
+		<script>
+
+			function eva() {
+
+				var number = parseFloat(document.getElementById("number").value);
+
+				if (number < 0) {
+
+					document.getElementById("number").style.border = "1px solid red";
+					document.getElementById("labelSpan1").style.color = "red";
+					//document.getElementById("labelSpan1").style.fontStyle = "bold";
+					document.getElementById("labelSpan1").style.textDecoration = "underline";
+					document.getElementById("labelSpan1").style.fontSize = "33px";
+					document.getElementById("para").innerHTML = "Nicht OK";
+					document.getElementById("number").style.backgroundImage =
+						"url(icons/nichtok.png)";
+					document.getElementById("number").style.backgroundRepeat =
+						"no-repeat";
+					document.getElementById("number").style.backgroundPosition =
+						"right center";
+					document.getElementById("number").style.backgroundSize = "15px";
+
+
+
+
+				}else{
+
+					document.getElementById("number").style.border = "1px solid black";
+					document.getElementById("labelSpan1").style.color = "black";
+					document.getElementById("labelSpan1").style.fontStyle = "none";
+					document.getElementById("labelSpan1").style.textDecoration = "none";
+					document.getElementById("labelSpan1").style.fontSize = "initial";
+					document.getElementById("para").innerHTML = "OK";
+					document.getElementById("number").style.backgroundImage =
+						"url(icons/ok.png)";
+					document.getElementById("number").style.backgroundRepeat =
+						"no-repeat";
+					document.getElementById("number").style.backgroundPosition =
+						"right center";
+					document.getElementById("number").style.backgroundSize = "15px";
+
+				}
+
+			}
+
+		</script>
+	</head>
+	<body>
+		<label for="number"> Eine <span id="labelSpan1">positive</span> Zahl eingeben:</label>
+		<input id="number" type="number">
+		<button onclick="eva()">Eingabe überprüfen</button>
+		<p id="para"></p>
+	</body>
+</html>

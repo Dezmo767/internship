@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>2</title>
+		<script>
+
+			function eva() {
+
+				var number = parseFloat(document.getElementById("number").value);
+
+				if (number < 0) {
+
+					document.getElementById("number").style.border = "1px solid red";
+
+
+				}else{
+
+					document.getElementById("number").style.border = "1px solid black";
+
+				}
+
+			}
+
+		</script>
+	</head>
+	<body>
+		<label for="number"> Eine positive Zahl eingeben:</label>
+		<input id="number" type="number">
+		<button onclick="eva()">Eingabe überprüfen</button>
+	</body>
+</html>
