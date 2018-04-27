@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>6</title>
+		<style>
+
+			img{
+
+				width: 33%;
+
+			}
+
+
+		</style>
+		<script>
+			function widthChange() {
+
+				var name = document.getElementById("namePic").value;
+				var number = document.getElementById("number").value;
+
+				if(name === "" && number === ""){
+
+					document.getElementById("namePic").style.backgroundColor = "red";
+					document.getElementById("number").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+
+			  }else if(name === "") {
+
+					document.getElementById("namePic").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+				}else if(number === "" && name === "bild1" ||  name === "bild2" ||  name === "bild3") {
+
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+				}else if (name === "bild1"){
+
+					document.getElementById("bild1").style.width = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+
+				}else if (name === "bild2"){
+
+					document.getElementById("bild2").style.width = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+				}else if (name === "bild3"){
+
+					document.getElementById("bild3").style.width = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+				}
+
+			}
+
+
+
+			function height() {
+
+				var name = document.getElementById("namePic").value;
+				var number = document.getElementById("number").value;
+
+				if(name === "" && number === ""){
+
+					document.getElementById("namePic").style.backgroundColor = "red";
+					document.getElementById("number").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+
+				}else if(name === "") {
+
+					document.getElementById("namePic").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+				}else if(number === "" && name === "bild1" ||  name === "bild2" ||  name === "bild3") {
+
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "red";
+					document.getElementById("para").innerHTML = "Bitte alle Informationen angeben";
+
+				}else if (name === "bild1"){
+
+					document.getElementById("bild1").style.height = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+
+				}else if (name === "bild2"){
+
+					document.getElementById("bild2").style.height = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+				}else if (name === "bild3"){
+
+					document.getElementById("bild3").style.height = number;
+					document.getElementById("namePic").style.backgroundColor = "";
+					document.getElementById("number").style.backgroundColor = "";
+					document.getElementById("para").innerHTML = "";
+
+				}
+
+			}
+		</script>
+	</head>
+	<body>
+		<div>
+			<input id="namePic" type="text" placeholder="bild1 oder bild2 oder bild3.">
+			<input id="number" type="text" placeholder="Breite/Höhe in px angeben.">
+			<button onclick="widthChange()">Breite ändern</button>
+			<button onclick="height()">Höhe ändern</button><br><br>
+
+			<img id="bild1" src="landschaften/bild1.jpg">
+			<img id="bild2" src="landschaften/bild2.jpg">
+			<img id="bild3" src="landschaften/bild3.jpg">
+
+			<p id="para"></p>
+
+		</div>
+	</body>
+</html>

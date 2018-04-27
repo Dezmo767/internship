@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>7</title>
+		
+		<script>
+			
+			function signup() {
+
+				var firstName = document.getElementById("firstName").value;
+				var lastName  = document.getElementById("lastName").value;
+				var email     = document.getElementById("emailAddress").value;
+
+				if(firstName === "" && lastName === "" && email === ""){
+
+					document.getElementById("firstName").style.border = "1px solid red";
+					document.getElementById("lastName").style.border = "1px solid red";
+					document.getElementById("emailAddress").style.border = "1px solid red";
+
+
+				}else if (firstName === ""){
+
+					document.getElementById("firstName").style.border = "1px solid red";
+
+				}else if (lastName === "" && email === ""){
+
+					document.getElementById("lastName").style.border = "1px solid red";
+					document.getElementById("emailAddress").style.border = "1px solid red";
+					document.getElementById("firstName").style.border = "";
+
+				}else if (lastName === ""){
+
+					document.getElementById("lastName").style.border = "1px solid red";
+					document.getElementById("firstName").style.border = "";
+					document.getElementById("emailAddress").style.border = "";
+
+				}else if (email === ""){
+
+					document.getElementById("emailAddress").style.border = "1px solid red";
+					document.getElementById("firstName").style.border = "";
+					document.getElementById("lastName").style.border = "";
+
+				}else {
+
+					document.getElementById("para").innerHTML =
+						"<hr>"+"Hallo "+firstName+" "+lastName+"."+" Deine Email ist "+email;
+
+				}
+				
+			}
+			
+			
+		</script>
+		
+	</head>
+	<body>
+		<input id="firstName" placeholder="Dein Vorname"><br><br>
+		<input id="lastName" placeholder="Dein Nachname"><br><br>
+		<input id="emailAddress" placeholder="Deine E-mail"><br><br>
+		<button onclick="signup()">Registrieren</button>
+		<p id="para"></p>
+	</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>5</title>
+		<style>
+
+			img{
+
+				width: 33%;
+
+			}
+
+
+		</style>
+		<script>
+			function widthChange() {
+
+				var name = document.getElementById("namePic").value;
+				var number = document.getElementById("number").value;
+
+				if (name === "bild1"){
+
+					document.getElementById("bild1").style.width = number;
+
+
+				}else if (name === "bild2"){
+
+					document.getElementById("bild2").style.width = number;
+
+				}else if (name === "bild3"){
+
+					document.getElementById("bild3").style.width = number;
+
+				}
+
+			}
+			function height() {
+
+				var name = document.getElementById("namePic").value;
+				var number = document.getElementById("number").value;
+
+				if (name === "bild1"){
+
+					document.getElementById("bild1").style.height = number;
+
+
+				}else if (name === "bild2"){
+
+					document.getElementById("bild2").style.height = number;
+
+				}else if (name === "bild3"){
+
+					document.getElementById("bild3").style.height = number;
+
+				}
+				
+			}
+		</script>
+	</head>
+	<body>
+		<div>
+			<input id="namePic" type="text" placeholder="bild1 oder bild2 oder bild3.">
+			<input id="number" type="text" placeholder="Breite/Höhe in px angeben.">
+			<button onclick="widthChange()">Breite ändern</button>
+			<button onclick="height()">Höhe ändern</button><br><br>
+
+			<img id="bild1" src="landschaften/bild1.jpg">
+			<img id="bild2" src="landschaften/bild2.jpg">
+			<img id="bild3" src="landschaften/bild3.jpg">
+
+
+		</div>
+	</body>
+</html>
