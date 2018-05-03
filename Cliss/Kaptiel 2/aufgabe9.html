@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>9</title>
+    <script>
+
+        function change() {
+
+
+            var pics = document.getElementById('pics').src;
+
+            if(pics === "http://localhost:63342/cliss/birnen/aus.png"){
+                document.getElementById('pics').src="birnen/an.png";
+        }else {
+
+                document.getElementById('pics').src="birnen/aus.png";
+
+            }
+
+
+        }
+
+
+    </script>
+
+</head>
+<body>
+
+<img src="birnen/aus.png" onclick="change()" id="pics">
+
+</body>
+</html>
