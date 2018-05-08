@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+	<title>CLISS2</title>
+	<script>
+
+
+		var rn;
+
+		function tossTheDice(){
+			var  rn, path;
+
+			rn = generateRandom(1, 6);
+
+			path = "img/" + rn + ".jpg";
+
+			document.getElementById("output").innerHTML = "<img src='" + path + "'>";
+		}
+		function  generateRandom(min,max){
+
+		var rn = Math.floor(Math.random()* (max - min + 1) ) + min;
+		return rn;
+
+
+
+		}
+
+	</script>
+</head>
+<body>
+	<button onclick='tossTheDice()'>würfeln</button>
+	<div id="output"></div>
+</body>
+</html>
