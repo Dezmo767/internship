@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CLISS2</title>
+    <script>
+
+   function compare(){
+     var homeTeam, guestTeam, max, output, image;
+
+     homeTeam = parseInt(document.getElementById("homeTeam").value);
+     guestTeam = parseInt(document.getElementById("guestTeam").value);
+
+     max = maximum(homeTeam, guestTeam);
+
+     if (max === homeTeam && max === guestTeam){
+       output = "<p>Das Spiel endet unentschieden.</p>";
+       image = getTag("bilder/freundlich.png");
+     }else if (max === homeTeam){
+       output = "<p>Es handelt sich um einen Heimsieg.</p>";
+       image = getTag("bilder/schreiend.png");
+     } else {
+       output = "<p>Es handelt sich um einen Auswärtssieg.</p>";
+       image = getTag("bilder/schockiert.png");
+     }
+
+     document.getElementById("output").innerHTML = output + image;
+   }
+   function maximum(pMax,pMin) {
+
+	   if(pMax > pMin){
+
+		   var ret = pMax;
+		   return ret;
+
+	   } else{
+
+		   var ret = pMin;
+		   return ret;
+
+	   }
+
+   }
+   function getTag(pTag) {
+
+	   var backvalue = "<img src="+pTag+">";
+	   return backvalue;
+
+
+   }
+
+    </script>
+  </head>
+  <body>
+      <h1>Heim- oder Auswärtssieg</h1>
+      <p><label for="homeTeam">Tore der Gastgeber:</label><input type="text" id="homeTeam"></p>
+      <p><label for="guestTeam">Tore der Gäste:</label><input type="text" id="guestTeam"></p>
+      <button onclick="compare()">Vergleichen</button>
+      <div id="output"></div>
+  </body>
+</html>

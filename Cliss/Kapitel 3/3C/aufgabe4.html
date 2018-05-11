@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>4</title>
+		<script>
+			function check() {
+
+				var input1 = parseFloat(document.getElementById("input1").value);
+				var input2 = parseFloat(document.getElementById("input2").value);
+
+				var max = maximum(input1,input2);
+
+				document.getElementById("output").innerHTML = max ;
+
+
+
+
+			}
+			function maximum(pMax,pMin) {
+
+				if(pMax > pMin){
+
+					var ret = pMax;
+					return ret;
+
+				} else{
+
+					var ret = pMin;
+					return ret;
+
+				}
+
+			}
+
+
+		</script>
+
+
+
+	</head>
+	<body>
+		<label for="input1">Zahl1: </label><input id="input1">
+		<label for="input2">Zahl2: </label><input id="input2">
+		<button onclick="check()">Return</button>
+		<p id="output"></p>
+	</body>
+</html>

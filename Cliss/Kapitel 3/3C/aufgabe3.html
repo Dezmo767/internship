@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>3</title>
+		<script>
+			function getTag(pTag) {
+
+				var backvalue = "<img src="+pTag+">";
+				return backvalue;
+
+
+			}
+			function check() {
+				var input = document.getElementById("input").value;
+				var backValue = getTag(input);
+
+				document.getElementById("output").innerHTML = backValue;
+				
+			}
+
+
+
+		</script>
+
+
+	</head>
+	<body>
+		<label for="input">Bild source</label>
+		<input id="input" type="text">
+		<button onclick="check()">Auswerten</button>
+		<p id="output"></p>
+		
+	</body>
+</html>
