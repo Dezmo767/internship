@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>7</title>
+		<script>
+			function evaluateMark(pInput) {
+				var number;
+
+				if (pInput <= 0 || pInput >61){
+
+					number = "<img src='bilder/fragend.png'>"
+
+				}else if(pInput >= 50){
+
+					number = "Deine Note ist 1"
+
+				} else if(pInput >= 40){
+
+					number = "Deine Note ist 2"
+
+				}else if(pInput >= 30){
+
+					number = "Deine Note ist 3"
+
+				}else if(pInput >= 20){
+
+					number = "Deine Note ist 4"
+
+				}else if(pInput >= 10){
+
+					number = "Deine Note ist 5"
+
+				}else if(pInput >= 1){
+
+					number = "Deine Note ist 6"
+
+				}
+				return number;
+			}
+			function check() {
+				var inputNumber = parseFloat(document.getElementById("input").value);
+				var evaluation = evaluateMark(inputNumber);
+
+				document.getElementById("output").innerHTML = evaluation;
+
+
+
+
+			}
+
+		</script>
+	</head>
+	<body>
+		<h1>Notenbewertung</h1>
+		<label for="input">Gib bitte deine note ein: </label>
+		<input id="input" type="number">
+		<button onclick="check()">Bewerten
+		</button>
+		<p id="output"></p>
+	</body>
+</html>

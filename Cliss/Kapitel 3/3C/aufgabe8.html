@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>8</title>
+		<script>
+			function check() {
+				var inputNumbert = parseFloat(document.getElementById("inputNumber").value);
+				var inputUnite = parseFloat(document.getElementById("inputUnite").value);
+				var convert = convert(inputNumbert,inputUnite)
+				
+			}
+			function convert(pNumber,pUnit) {
+
+				var number;
+
+				if(pUnit === "mm"){
+
+					number = pNumber * 1000;
+					return number
+
+				}else if(pUnit === "cm"){
+
+					number = pNumber * 100;
+					return number
+
+				}else if(pUnit === "km"){
+
+					number = pNumber / 100;
+					return number
+
+
+				}
+
+
+				
+			}
+			
+			
+		</script>
+	</head>
+	<body>
+		<label for="inputNumber">Länge in Meter </label>
+		<input id="inputNumber" type="text">
+		<label for="inputUnit">Wähle eine Einheit aus </label>
+		<input id="inputUnit" type="text" placeholder="mm cm oder km">
+		<button onclick="check()">Länge umwandeln</button>
+		<p id="output"></p>
+		
+	</body>
+</html>
