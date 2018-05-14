@@ -1,0 +1,29 @@
+1) chemische Energie 
+2) bei Akkus meistens mAh (Milliamperestunde) W=Q*U [VAs] = [As]*[V]   //Ws*3600 --> kWh    | Q= I*t  []
+3) a) - Volt (Spannung): Wie schnell kann man den Akku aufladen und wieviel Spannung kann er abgeben.
+      - mAh (Milliamperestunde): Eine Amperestunde ist die Ladungsmenge, die innerhalb einer Stunde durch einen Leiter fließt, wenn der elektrische Strom konstant 1 A beträgt. Sie wird häufig genutzt, um die zur Verfügung stehende Ladung von Akkumulatoren oder Batterien in Amperestunden (Ah) anzugeben.
+      - WH (Wattstunde): Eine Wattstunde entspricht der Energie, welche ein System (z. B. Maschine, Mensch, Glühlampe) mit einer Leistung von einem Watt in einer Stunde aufnimmt oder abgibt.
+   b) W = I * t * U
+	= 3 Ah * 10,8V
+	= 32,4 W
+
+	Q=I*t
+	t = Q/I
+
+	P= W * t 	Lux Strompreis = 0,15€*kwH
+
+	--> t = W/P In diesem Kontext wäre der Akku nach 32h leer
+   c) P = U *I 
+      I = P/U = 1/10,8 = 0,0926 A = 92,6 mA
+4) a) 1kWh aus AA-Akku
+      200mAh U = 1,2V
+      Preis Akku = 3€ +/-200mal aufladbar
+      Wirkungsgrad ungefähr 70%
+      Selbstentladung = 50%
+      abgegeben Energie 200*2,4Wh = 0,48kWh
+      zugeführte Energie 0,48kWh/0,7*0,5 = 1,37kWh
+      Kosten = 1,37kWh * 0,15€/kWh + 3€
+      Kosten pro kWh = 3,21€/0,48 = 6,68€
+   c) Q = 300mAh U = 1,5V --> W = 4,5 Wh
+      1kWh: 1kWh/0,0045kWh = +/-222Stück --> 111€/kWh
+5) 12kWh: Akku: 12kWh * 6,68€/kWh = 80€ | Benzin ungefähr 1,3€  
